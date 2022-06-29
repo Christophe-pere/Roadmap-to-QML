@@ -116,4 +116,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Preskill, 2022, PH219, Quantum Computing](http://theory.caltech.edu/~preskill/ph219/ph219_2022.html)
 - [ ] [Peter Wittek, 2019, QML](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 
+### IBM List of papers
+[IBM, Qiskit papers](https://airtable.com/shr5QnbLgraHRPx35/tblqDKDgMVdH6YGSE)
+
 

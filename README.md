@@ -90,7 +90,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Kopczyk, 2018, Quantum Machine Learning for data scientists](https://arxiv.org/abs/1804.10068)
 - [ ] [Schuld & Killoran, 2018, Quantum machine learning in feature Hilbert spaces](https://arxiv.org/abs/1803.07128)
 
-#### 2014-2018
+#### 2014-2017
 - [ ] [Perdomo-Ortiz et al. 2017, Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757)
 - [ ] [Biamonte et al., 2016, Quantum machine Learning](https://arxiv.org/abs/1611.09347)
 - [ ] [Aaronson, 2015, Quantum Machine Learning Algorithms: Read the Fine Print](https://www.scottaaronson.com/papers/qml.pdf)

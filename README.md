@@ -58,7 +58,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Martyn et al., 2021, Grand Unification of Quantum Algorithms](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.2.040203)
 - [ ] [Massoli et al., 2021, A Leap among Entanglement and Neural Networks: A Quantum Survey](https://arxiv.org/abs/2107.03313)
 - [ ] [Perlin et al., 2021, Quantum circuit cutting with maximum-likelihood tomography](https://www.nature.com/articles/s41534-021-00390-6)
-- [ ] [Perrier, Youssry and Ferrie, 2021, QDataset: Quantum Datasets for Machine Learning](https://arxiv.org/abs/2108.06661)
+- [ ] [Perrier, Youssry and Ferrie, 2021, QDataset: Quantum Datasets for Machine Learning](https://arxiv.org/abs/2108.06661) [GitHub](https://github.com/eperrier/QDataSet)
 - [ ] [Qian et al., 2021, The dilemma of quantum neural networks](https://arxiv.org/pdf/2106.04975.pdf)
 - [ ] [Roget, Di Molfetta and Kadri, 2021, Quantum Perceptron Revisited: Computational-Statistical Tradeoffs](https://arxiv.org/pdf/2106.02496.pdf)
 - [ ] [Schuld, 2021, Supervised quantum machine learning models are kernel methods](https://arxiv.org/abs/2101.11020)
@@ -119,6 +119,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Qiskit, QML](https://qiskit.org/learn/course/machine-learning-course)
 - [ ] [Pennylane, QML](https://pennylane.ai/qml/index.html)
 - [ ] [Xanadu, Codebook](https://codebook.xanadu.ai/)
+- [ ] [CERN, Elias Fernandez-Combarro Alvarez, "A practical introduction to quantum computing: from qubits to quantum machine learning and beyond" 7 lectures](https://indico.cern.ch/category/12909/)
 
 ### Libraries
 - [ ] [Qiskit](https://www.qiskit.org)

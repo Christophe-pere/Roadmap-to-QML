@@ -117,7 +117,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Preskill, 2022, PH219, Quantum Computing](http://theory.caltech.edu/~preskill/ph219/ph219_2022.html)
 - [ ] [Peter Wittek, 2019, QML](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 - [ ] [Qiskit, QML](https://qiskit.org/learn/course/machine-learning-course)
-- [ ] [Pennulane, QML](https://pennylane.ai/qml/index.html)
+- [ ] [Pennylane, QML](https://pennylane.ai/qml/index.html)
 - [ ] [Xanadu, Codebook](https://codebook.xanadu.ai/)
 
 ### Libraries

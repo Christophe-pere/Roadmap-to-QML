@@ -70,17 +70,27 @@ This repository will contain the major papers, books and blog posts on QML
 #### 2020
 - [ ] [Abbas et al. 2020, The power of quantum neural networks](https://arxiv.org/abs/2011.00027)
 - [ ] [Abbas et al. 2020, On quantum ensemble of quantum classifiers](https://arxiv.org/abs/2001.10833)
+- [ ] [Arthur & Date, 2020, Balanced k-Means Clustering on an Adiabatic Quantum Computer](https://arxiv.org/pdf/2008.04419.pdf)
+- [ ] [Bausch, 2020, Recurrent Quantum Neural Network](https://arxiv.org/pdf/2006.14619.pdf)
 - [ ] [Beer et al., 2020, Training deep quantum neural networks](https://www.nature.com/articles/s41467-020-14454-2.pdf)
 - [ ] [Cerezo et al., 2020, Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265)
 - [ ] [Chen, Yoo and Fang, 2020, Quantum Long Short Term Memory](https://arxiv.org/abs/2009.01783)
+- [ ] [Gabor et al., 2020, The Holy Grail of Quantum Artificial Intelligence: Major Challenges in Accelerating the Machine Learning Pipeline](https://arxiv.org/abs/2004.14035)
 - [ ] [Garg & Ramakrishnan, 2020, Advances in Quantum Deep Learning: An Overview](https://arxiv.org/pdf/2005.04316.pdf)
 - [ ] [Gentile et al., 2020, Learning models of quantum systems from experiments](https://arxiv.org/abs/2002.06169)
+- [ ] [Khairy et al., 2020, Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems](https://ojs.aaai.org//index.php/AAAI/article/view/5616)
+- [ ] [Oliviera et al., 2020, Quantum One-class Classification With a Distance-based Classifier](https://arxiv.org/pdf/2007.16200.pdf)
+- [ ] [Pan et al., 2020, Experimental semi-autonomous eigensolver using reinforcement learning](https://arxiv.org/pdf/2007.15521.pdf)
+- [ ] [Perelshtein et al., 2020, Large-scale quantum hybrid solution for linear systems of equations](https://arxiv.org/pdf/2003.12770.pdf) 
+- [ ] [Poland, Beer and Osborne, 2020, No Free Lunch for Quantum Machine Learning](https://arxiv.org/pdf/2003.14103.pdf)
 - [ ] [Schuld, Sweke, Meyer, 2020, The effect of data encoding on the expressive power of variational quantum machine learning models](https://arxiv.org/abs/2008.08605)
 - [ ] [Tang et al., 2020, CutQC: Using Small Quantum Computers for Large Quantum Circuit Evaluations](https://arxiv.org/abs/2012.02333)
+- [ ] [Wang et al., 2020, Noise-Induced Barren Plateaus in Variational Quantum Algorithms](https://arxiv.org/pdf/2007.14384.pdf)
 - [ ] [Xia et al., 2020, Quantum-enhanced data classification with a variational entangled sensor network](https://arxiv.org/abs/2006.11962)
 - [ ] [Zhang & Ni, 2020, Recent Advances in Quantum Machine Learning](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf)
 
 #### 2019
+- [ ] [Benedetti et al., 2019, Parameterized quantum circuits as machine learning models](https://iopscience.iop.org/article/10.1088/2058-9565/ab4eb5/meta)
 - [ ] [Orus, Mugel, Lizaso, 2019, Quantum computing for finance: Overview and prospects](https://reader.elsevier.com/reader/sd/pii/S2405428318300571?token=28567476E673DC1C0822AC2F1154825443428F74A17965BB0E4D30561A2E7C12D38E491BF32236FCE86B36A40EF401FC&originRegion=us-east-1&originCreation=20220629022528)
 - [ ] [Tacchino et al., 2019, An artificial neuron implemented on an actual quantum processor](https://www.nature.com/articles/s41534-019-0140-4.pdf)
 - [ ] [Wang et al., 2019, Quantized Generative Adversarial Network](https://arxiv.org/abs/1901.08263)
@@ -90,8 +100,12 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Bergholm et al., 2018, PennyLane: Automatic differentiation of hybrid quantum-classical computations](https://arxiv.org/abs/1811.04968)
 - [ ] [Kopczyk, 2018, Quantum Machine Learning for data scientists](https://arxiv.org/abs/1804.10068)
 - [ ] [Schuld & Killoran, 2018, Quantum machine learning in feature Hilbert spaces](https://arxiv.org/abs/1803.07128)
+- [ ] [Zhao et al., 2018, Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf)[GitHub](https://gitlab.com/apozas/bayesian-dl-quantum)
 
-#### 2014-2017
+#### 2013-2017
+- [ ] [Cao, Guerreschi, Aspuru-Guzik, 2017, Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240)[Github](https://github.com/inJeans/qnn)
+- [ ] [Liu & Rebentrost, 2017, Quantum machine learning for quantum anomaly detection](https://arxiv.org/abs/1710.07405)
+- [ ] [Otterbach et al., 2017, Unsupervised Machine Learning on a Hybrid Quantum Computer](https://arxiv.org/abs/1712.05771)[GitHub](https://github.com/BOHRTECHNOLOGY/quantum_tsp)
 - [ ] [Perdomo-Ortiz et al. 2017, Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757)
 - [ ] [Biamonte et al., 2016, Quantum machine Learning](https://arxiv.org/abs/1611.09347)
 - [ ] [Aaronson, 2015, Quantum Machine Learning Algorithms: Read the Fine Print](https://www.scottaaronson.com/papers/qml.pdf)
@@ -99,6 +113,8 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Schuld, Synayskly and Petruccione, 2014, The quest for a Quantum Neural Network](https://arxiv.org/pdf/1408.7005.pdf)
 - [ ] [Schuld, Synayskly and Petruccione, 2014, Simulating a perceptron on a quantum computer](https://arxiv.org/abs/1412.3635)
 - [ ] [Schuld, Synayskly and Petruccione, 2014, An introduction to quantum machine learning](https://arxiv.org/abs/1409.3097)
+- [ ] [Wittek, 2014, Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.researchgate.net/profile/Peter-Wittek/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining/links/5ababcfba6fdcc71647085db/Quantum-Machine-Learning-What-Quantum-Computing-Means-to-Data-Mining.pdf)
+- [ ] [Llyod, Mohseni, Rebentrost, 2013, Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411)
 
 ### Blogs
 - [x] [Qiskit medium, 2022, We are releasing a free hands-on quantum machine learning course online](https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d)
@@ -112,14 +128,20 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Conferences
 - [ ] [QTML 2021](https://www.youtube.com/watch?v=meTsqSkNLKI&list=PLaEuBnOE7AzNoNoSWgxd594PzCpJA6cGz&index=1)
+- [ ] [Ijaz, An introduction to Quantum Machine Learning](https://www.youtube.com/watch?v=-DWng3jyBIM)
+- [ ] [Schuld, 2020, Quantum Machine Learning](https://www.youtube.com/watch?v=C_lBYKV_pJo)
+- [ ] [Schuld, 2020, QUantum Machine Learning and Pennylane](https://www.youtube.com/watch?v=pe1d0RyCNxY)
+- [ ] [Wittek, 2015, What Can We Expect from Quantum Machine Learning?](https://www.youtube.com/watch?v=EKWGLERVLuc)
 
 ### MOOC
 - [ ] [Preskill, 2022, PH219, Quantum Computing](http://theory.caltech.edu/~preskill/ph219/ph219_2022.html)
 - [ ] [Peter Wittek, 2019, QML](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
-- [ ] [Qiskit, QML](https://qiskit.org/learn/course/machine-learning-course)
+- [ ] [Qiskit, 2022, QML](https://qiskit.org/learn/course/machine-learning-course)
+- [ ] [Qiskit, 2021, Quantum Machine Learning | 2021 Qiskit Global Summer School](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI)
 - [ ] [Pennylane, QML](https://pennylane.ai/qml/index.html)
 - [ ] [Xanadu, Codebook](https://codebook.xanadu.ai/)
 - [ ] [CERN, Elias Fernandez-Combarro Alvarez, "A practical introduction to quantum computing: from qubits to quantum machine learning and beyond" 7 lectures](https://indico.cern.ch/category/12909/)
+- [ ] [Llyod, 2016, Quantum Machine Learning](https://www.youtube.com/watch?v=Lbndu5EIWvI&t=3009s)
 
 ### Libraries
 - [ ] [Qiskit](https://www.qiskit.org)

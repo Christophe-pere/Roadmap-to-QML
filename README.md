@@ -9,6 +9,7 @@ This repository will contain the major papers, books and blog posts on QML
   - [Blogs](#blogs)
   - [Conferences](#conferences)
   - [MOOC](#moocs)
+  - [Quantum Libraries](#libraries)
 ---
 ## Quantum Machine Learning
 ### Books
@@ -118,6 +119,18 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Qiskit, QML](https://qiskit.org/learn/course/machine-learning-course)
 - [ ] [Pennulane, QML](https://pennylane.ai/qml/index.html)
 - [ ] [Xanadu, Codebook](https://codebook.xanadu.ai/)
+
+### Libraries
+- [ ] [Qiskit](https://www.qiskit.org)
+- [ ] [Pennylane](https://pennylane.ai)
+- [ ] [Lambeq](https://github.com/CQCL/lambeq)
+- [ ] [Forest](https://github.com/rigetti/forest-software)
+- [ ] [Tensorflow-quantum](https://www.tensorflow.org/quantum)
+- [ ] [Braket](https://github.com/aws/amazon-braket-sdk-python)
+- [ ] [Cirq](https://quantumai.google/cirq)
+- [ ] [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk)
+- [ ] [Strawberry Fields](https://github.com/xanaduai/strawberryfields)
+- [ ] [Q#](https://azure.microsoft.com/en-ca/resources/development-kit/quantum-computing/)
 
 ### IBM List of papers
 [IBM, Qiskit papers](https://airtable.com/shr5QnbLgraHRPx35/tblqDKDgMVdH6YGSE)

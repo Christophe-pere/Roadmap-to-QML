@@ -57,6 +57,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Lopatnikova, Tran and Sisson, 2021, An Introduction to Quantum Computing for Statisticians and Data Scientists](https://arxiv.org/abs/2112.06587)
 - [ ] [Martyn et al., 2021, Grand Unification of Quantum Algorithms](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.2.040203)
 - [ ] [Massoli et al., 2021, A Leap among Entanglement and Neural Networks: A Quantum Survey](https://arxiv.org/abs/2107.03313)
+- [ ] [Motta & Rice, 2021, Emerging quantum computing algorithms for quantum chemistry](https://arxiv.org/pdf/2109.02873.pdf)
 - [ ] [Perlin et al., 2021, Quantum circuit cutting with maximum-likelihood tomography](https://www.nature.com/articles/s41534-021-00390-6)
 - [ ] [Perrier, Youssry and Ferrie, 2021, QDataset: Quantum Datasets for Machine Learning](https://arxiv.org/abs/2108.06661) [GitHub](https://github.com/eperrier/QDataSet)
 - [ ] [Qian et al., 2021, The dilemma of quantum neural networks](https://arxiv.org/pdf/2106.04975.pdf)

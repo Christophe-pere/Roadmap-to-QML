@@ -29,6 +29,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 - [ ] [Kerenidis & Prakash, 2022, Quantum machine learning with subspace states](https://arxiv.org/pdf/2202.00054.pdf)
 - [ ] [Li et al., 2022, Quantum Neural Network Classifiers: A tutorial](https://arxiv.org/pdf/2206.02806.pdf)
+- [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)
 - [ ] [Pozza et al., 2022, Quantum Reinforcement Learning: The maze problem](https://link.springer.com/article/10.1007/s42484-022-00068-y)
 - [ ] [Radha & Jao, 2022, Generalized quantum Similiraty Learning](https://arxiv.org/pdf/2201.02310.pdf)
 - [ ] [Schuld & Killoran, 2022, Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340)

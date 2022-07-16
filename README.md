@@ -31,6 +31,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Jäger & Krems, 2022, Universal expressiveness of variational quantum classifiers and quantum kernels for support vector machines](https://arxiv.org/pdf/2207.05865.pdf)
 - [ ] [Kerenidis & Prakash, 2022, Quantum machine learning with subspace states](https://arxiv.org/pdf/2202.00054.pdf)
 - [ ] [Li et al., 2022, Quantum Neural Network Classifiers: A tutorial](https://arxiv.org/pdf/2206.02806.pdf)
+- [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
 - [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)
 - [ ] [Pozza et al., 2022, Quantum Reinforcement Learning: The maze problem](https://link.springer.com/article/10.1007/s42484-022-00068-y)

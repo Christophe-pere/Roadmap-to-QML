@@ -26,6 +26,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Fedorov et al., 2022, Quantum computing at the quantum advantage threshold: a down-to-business review](https://arxiv.org/abs/2203.17181)
 - [ ] [Garcia, Benito, Garcia-Penalvo, 2022. Systematic Literature Review: Quantum Machine Learning and its applications](https://arxiv.org/abs/2201.04093)
 - [ ] [Gentinetta et al., 2022, The complexity of quantum support vector machines](https://arxiv.org/abs/2203.00031)
+- [ ] [Hu et al., 2022, Quantum Neural Network Compression](https://arxiv.org/pdf/2207.01578.pdf)
 - [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 - [ ] [Kerenidis & Prakash, 2022, Quantum machine learning with subspace states](https://arxiv.org/pdf/2202.00054.pdf)
 - [ ] [Li et al., 2022, Quantum Neural Network Classifiers: A tutorial](https://arxiv.org/pdf/2206.02806.pdf)

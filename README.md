@@ -110,6 +110,7 @@ This repository will contain the major papers, books and blog posts on QML
 
 #### 2013-2017
 - [ ] [Cao, Guerreschi, Aspuru-Guzik, 2017, Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240)[Github](https://github.com/inJeans/qnn)
+- [ ] [Dunjko & Briegel, 2017, Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
 - [ ] [Liu & Rebentrost, 2017, Quantum machine learning for quantum anomaly detection](https://arxiv.org/abs/1710.07405)
 - [ ] [Otterbach et al., 2017, Unsupervised Machine Learning on a Hybrid Quantum Computer](https://arxiv.org/abs/1712.05771)[GitHub](https://github.com/BOHRTECHNOLOGY/quantum_tsp)
 - [ ] [Perdomo-Ortiz et al. 2017, Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757)

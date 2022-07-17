@@ -122,6 +122,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Schuld, Synayskly and Petruccione, 2014, An introduction to quantum machine learning](https://arxiv.org/abs/1409.3097)
 - [ ] [Wittek, 2014, Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.researchgate.net/profile/Peter-Wittek/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining/links/5ababcfba6fdcc71647085db/Quantum-Machine-Learning-What-Quantum-Computing-Means-to-Data-Mining.pdf)
 - [ ] [Llyod, Mohseni, Rebentrost, 2013, Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411)
+- [ ] [Sgarbas, 2007, The road to Quantum Artificial Intelligence](https://arxiv.org/pdf/0705.3360.pdf)
 
 ### Blogs
 - [x] [Qiskit medium, 2022, We are releasing a free hands-on quantum machine learning course online](https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d)

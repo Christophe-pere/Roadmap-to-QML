@@ -111,7 +111,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Schuld & Killoran, 2018, Quantum machine learning in feature Hilbert spaces](https://arxiv.org/abs/1803.07128)
 - [ ] [Zhao et al., 2018, Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf)[GitHub](https://gitlab.com/apozas/bayesian-dl-quantum)
 
-#### 2013-2017
+#### 2007-2017
 - [ ] [Cao, Guerreschi, Aspuru-Guzik, 2017, Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240)[Github](https://github.com/inJeans/qnn)
 - [ ] [Dunjko & Briegel, 2017, Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
 - [ ] [Liu & Rebentrost, 2017, Quantum machine learning for quantum anomaly detection](https://arxiv.org/abs/1710.07405)
@@ -126,6 +126,18 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Wittek, 2014, Quantum Machine Learning: What Quantum Computing Means to Data Mining](https://www.researchgate.net/profile/Peter-Wittek/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining/links/5ababcfba6fdcc71647085db/Quantum-Machine-Learning-What-Quantum-Computing-Means-to-Data-Mining.pdf)
 - [ ] [Llyod, Mohseni, Rebentrost, 2013, Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411)
 - [ ] [Sgarbas, 2007, The road to Quantum Artificial Intelligence](https://arxiv.org/pdf/0705.3360.pdf)
+
+### Quantum Workforce 
+#### 2022
+- [ ] [Kaur & Venegas-Gomez, 2022, Defining the quantum workforce landscape: a review of global quantum education initiatives](https://arxiv.org/pdf/2202.08940.pdf)
+- [ ] [Peron et al., 2022, Quantum Undergraduate Education and Scientific Training](https://arxiv.org/abs/2109.13850)
+
+#### 2021 
+- [ ] [Asfaw et al., 2022, Building a Quantum Engineering Undergraduate Program](https://arxiv.org/pdf/2108.01311.pdf)
+- [ ] [Dzurak et al., 2021, Development of an Undergraduate Quantum Engineering Degree](https://arxiv.org/pdf/2110.12598.pdf)
+- [ ] [Ozhigov 2021, Quantum computations (course of lectures)](https://arxiv.org/pdf/2107.08047.pdf)
+- [ ] [Siddhu & Tayur, 2021, Five Starter Pieces: Quantum Information Science via Semi-definite Programs](https://arxiv.org/pdf/2112.08276.pdf)
+- [ ] [Tang et al., 2021, Teaching quantum information technologies and a practical module for online and offline undergraduate students](https://arxiv.org/abs/2112.06548)
 
 ### Blogs
 - [x] [Qiskit medium, 2022, We are releasing a free hands-on quantum machine learning course online](https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d)

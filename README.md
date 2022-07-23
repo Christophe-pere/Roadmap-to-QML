@@ -158,11 +158,12 @@ This repository will contain the major papers, books and blog posts on QML
 ---
 
 ### Conferences
+
 - [ ] [QTML 2021](https://www.youtube.com/watch?v=meTsqSkNLKI&list=PLaEuBnOE7AzNoNoSWgxd594PzCpJA6cGz&index=1)
-- [ ] [Ijaz, An introduction to Quantum Machine Learning](https://www.youtube.com/watch?v=-DWng3jyBIM)
-- [ ] [Schuld, 2020, Quantum Machine Learning](https://www.youtube.com/watch?v=C_lBYKV_pJo)
-- [ ] [Schuld, 2020, QUantum Machine Learning and Pennylane](https://www.youtube.com/watch?v=pe1d0RyCNxY)
-- [ ] [Wittek, 2015, What Can We Expect from Quantum Machine Learning?](https://www.youtube.com/watch?v=EKWGLERVLuc)
+- [ ] [Ijaz, An introduction to Quantum Machine Learning](https://www.youtube.com/watch?v=-DWng3jyBIM)
+- [ ] [Schuld, 2020, Quantum Machine Learning](https://www.youtube.com/watch?v=C_lBYKV_pJo)
+- [ ] [Schuld, 2020, QUantum Machine Learning and Pennylane](https://www.youtube.com/watch?v=pe1d0RyCNxY)
+- [ ] [Wittek, 2015, What Can We Expect from Quantum Machine Learning?](https://www.youtube.com/watch?v=EKWGLERVLuc)
 
 ---
 

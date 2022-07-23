@@ -19,6 +19,8 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Ganguly, 2021, Quantum Machine Learning: An Applied Approach](https://link.springer.com/book/10.1007/978-1-4842-7098-1?noAccess=true)
 - [ ] [Zickert, 2021, Hands-On Quantum Machine Learning, Vol-1](https://github.com/quantum-machine-learning/Hands-On-Quantum-Machine-Learning-With-Python-Vol-1)
 
+---
+
 ### Papers
 #### 2022
 - [ ] [Dawid et al., 2022, Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198)
@@ -127,6 +129,8 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Llyod, Mohseni, Rebentrost, 2013, Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411)
 - [ ] [Sgarbas, 2007, The road to Quantum Artificial Intelligence](https://arxiv.org/pdf/0705.3360.pdf)
 
+---
+
 ### Quantum Workforce 
 #### 2022
 - [ ] [Kaur & Venegas-Gomez, 2022, Defining the quantum workforce landscape: a review of global quantum education initiatives](https://arxiv.org/pdf/2202.08940.pdf)
@@ -139,6 +143,8 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Siddhu & Tayur, 2021, Five Starter Pieces: Quantum Information Science via Semi-definite Programs](https://arxiv.org/pdf/2112.08276.pdf)
 - [ ] [Tang et al., 2021, Teaching quantum information technologies and a practical module for online and offline undergraduate students](https://arxiv.org/abs/2112.06548)
 
+---
+
 ### Blogs
 - [x] [Qiskit medium, 2022, We are releasing a free hands-on quantum machine learning course online](https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d)
 - [ ] [Qunasys, , Accelerating variational quantum algorithms](https://qunasys.medium.com/accelerating-variational-quantum-algorithms-147b9bf02dc0)
@@ -149,12 +155,16 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [IEEE Spectrum, 2022, Quantum Error Correction](https://spectrum.ieee.org/quantum-error-correction)
 - [ ] [Google AI Blog, 2021, Quantum Machine Learning and the Power of Data](http://ai.googleblog.com/2021/06/quantum-machine-learning-and-power-of.html "Quantum Machine Learning and the Power of Data")
 
+---
+
 ### Conferences
 - [ ] [QTML 2021](https://www.youtube.com/watch?v=meTsqSkNLKI&list=PLaEuBnOE7AzNoNoSWgxd594PzCpJA6cGz&index=1)
 - [ ] [Ijaz, An introduction to Quantum Machine Learning](https://www.youtube.com/watch?v=-DWng3jyBIM)
 - [ ] [Schuld, 2020, Quantum Machine Learning](https://www.youtube.com/watch?v=C_lBYKV_pJo)
 - [ ] [Schuld, 2020, QUantum Machine Learning and Pennylane](https://www.youtube.com/watch?v=pe1d0RyCNxY)
 - [ ] [Wittek, 2015, What Can We Expect from Quantum Machine Learning?](https://www.youtube.com/watch?v=EKWGLERVLuc)
+
+---
 
 ### MOOC
 - [ ] [Preskill, 2022, PH219, Quantum Computing](http://theory.caltech.edu/~preskill/ph219/ph219_2022.html)
@@ -165,6 +175,8 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Xanadu, Codebook](https://codebook.xanadu.ai/)
 - [ ] [CERN, Elias Fernandez-Combarro Alvarez, "A practical introduction to quantum computing: from qubits to quantum machine learning and beyond" 7 lectures](https://indico.cern.ch/category/12909/)
 - [ ] [Llyod, 2016, Quantum Machine Learning](https://www.youtube.com/watch?v=Lbndu5EIWvI&t=3009s)
+
+---
 
 ### Libraries
 - [ ] [Qiskit](https://www.qiskit.org)
@@ -177,6 +189,8 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk)
 - [ ] [Strawberry Fields](https://github.com/xanaduai/strawberryfields)
 - [ ] [Q#](https://azure.microsoft.com/en-ca/resources/development-kit/quantum-computing/)
+
+---
 
 ### IBM List of papers
 [IBM, Qiskit papers](https://airtable.com/shr5QnbLgraHRPx35/tblqDKDgMVdH6YGSE)

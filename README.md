@@ -61,6 +61,8 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Highman & Bedford, 2021, Quantum Deep Learning: Sampling Neural Nets with a Quantum Annealer](https://arxiv.org/abs/2107.08710v1)
 - [ ] [Huang et al., 2021, Quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)
 - [ ] [Huang et al., 2021, The power of data in quantum machine learning](https://www.nature.com/articles/s41467-021-22539-9)
+- [ ] [Huggins et al., 2021, Efficient and noise resilient measurements for quantum
+chemistry on near-term quantum computers](https://www.nature.com/articles/s41534-020-00341-7.pdf)
 - [ ] [Jaderberg et al., 2021, Quantum self-supervised Learning](https://arxiv.org/abs/2103.14653)
 - [ ] [Kartsaklis et al., 2021, lambeq: An Efficient High-Level Python Library for Quantum NLP](https://www.arxiv.org/abs/2110.04236)
 - [ ] [Kerenedis, 2021, Quantum Algorithms for Unsupervised Machine Learning and Neural Networks](https://arxiv.org/pdf/2111.03598.pdf)

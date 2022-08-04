@@ -59,6 +59,7 @@ This repository will contain the major papers, books and blog posts on QML
 
 #### 2021
 - [ ] [Asfaw et al., 2021, Building a Quantum Engineering Undergraduate Program](https://arxiv.org/pdf/2108.0131.pdf)
+- [ ] [Atchade-Adelomou et al., 2021, quantum Case-Based Reasoning (qCBR)](https://arxiv.org/abs/2104.00409)
 - [ ] [Beer et al., 2021, Quantum machine learning of graph-structured data](https://arxiv.org/pdf/2103.10837.pdf)
 - [ ] [Bharti et al. 2021, Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448)
 - [ ] [Biamonte, 2021, On The Mathematical Structure of Quantum Models of Computation Based on Hamiltonian Minimisation](https://arxiv.org/pdf/2009.10088.pdf)
@@ -99,10 +100,12 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Beer et al., 2020, Training deep quantum neural networks](https://www.nature.com/articles/s41467-020-14454-2.pdf)
 - [ ] [Cerezo et al., 2020, Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265)
 - [ ] [Chen, Yoo and Fang, 2020, Quantum Long Short Term Memory](https://arxiv.org/abs/2009.01783)
+- [ ] [Fujii et al. 2020, Deep Variational Quantum Eigensolver: a divide-and-conquer method for solving a larger problem with smaller size quantum computers](https://arxiv.org/abs/2007.10917)
 - [ ] [Gabor et al., 2020, The Holy Grail of Quantum Artificial Intelligence: Major Challenges in Accelerating the Machine Learning Pipeline](https://arxiv.org/abs/2004.14035)
 - [ ] [Garg & Ramakrishnan, 2020, Advances in Quantum Deep Learning: An Overview](https://arxiv.org/pdf/2005.04316.pdf)
 - [ ] [Gentile et al., 2020, Learning models of quantum systems from experiments](https://arxiv.org/abs/2002.06169)
 - [ ] [Khairy et al., 2020, Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems](https://ojs.aaai.org//index.php/AAAI/article/view/5616)
+- [ ] [Liu et al., 2020, Efficient quantum algorithm for dissipative nonlinear differential equations](https://arxiv.org/abs/2011.03185)
 - [ ] [Oliviera et al., 2020, Quantum One-class Classification With a Distance-based Classifier](https://arxiv.org/pdf/2007.16200.pdf)
 - [ ] [Pan et al., 2020, Experimental semi-autonomous eigensolver using reinforcement learning](https://arxiv.org/pdf/2007.15521.pdf)
 - [ ] [Perelshtein et al., 2020, Large-scale quantum hybrid solution for linear systems of equations](https://arxiv.org/pdf/2003.12770.pdf) 
@@ -117,6 +120,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Benedetti et al., 2019, Parameterized quantum circuits as machine learning models](https://iopscience.iop.org/article/10.1088/2058-9565/ab4eb5/meta)
 - [ ] [Orus, Mugel, Lizaso, 2019, Quantum computing for finance: Overview and prospects](https://reader.elsevier.com/reader/sd/pii/S2405428318300571?token=28567476E673DC1C0822AC2F1154825443428F74A17965BB0E4D30561A2E7C12D38E491BF32236FCE86B36A40EF401FC&originRegion=us-east-1&originCreation=20220629022528)
 - [ ] [Tacchino et al., 2019, An artificial neuron implemented on an actual quantum processor](https://www.nature.com/articles/s41534-019-0140-4.pdf)
+- [ ] [Verdon et al., 2019, Learning to learn with quantum neural networks via classical neural networks](https://arxiv.org/abs/1907.05415)
 - [ ] [Wang et al., 2019, Quantized Generative Adversarial Network](https://arxiv.org/abs/1901.08263)
 - [ ] [Zoufal, Lucchi and Werner, 2019, Quantum Generative Adversarial Networks for learning and loading random distributions](https://www.nature.com/articles/s41534-019-0223-2)
 

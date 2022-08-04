@@ -26,6 +26,7 @@ This repository will contain the major papers, books and blog posts on QML
 #### 2022
 - [ ] [Dawid et al., 2022, Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198)
 - [ ] [Di Matteo et al., 2022, Quantum computing with differentiable quantum transforms](https://arxiv.org/abs/2202.13414)
+- [ ] [Duffield & Benedetti & Rosenkranz, 2022, Bayesian Learning of Parameterised Quantum Circuits](https://arxiv.org/pdf/2206.07559.pdf)
 - [ ] [Fedorov et al., 2022, Quantum computing at the quantum advantage threshold: a down-to-business review](https://arxiv.org/abs/2203.17181)
 - [ ] [Fujii et al., 2022, Deep Variational Quantum Eigensolver: a divide-and-conquer method for solving a larger problem with smaller size quantum computers](https://arxiv.org/abs/2007.10917)
 - [ ] [Garcia, Benito, Garcia-Penalvo, 2022. Systematic Literature Review: Quantum Machine Learning and its applications](https://arxiv.org/abs/2201.04093)
@@ -114,6 +115,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 
 #### 2018
 - [ ] [Bergholm et al., 2018, PennyLane: Automatic differentiation of hybrid quantum-classical computations](https://arxiv.org/abs/1811.04968)
+- [ ] [Cao et al., 2022, Quantum Chemistry in the Age of Quantum Computing](https://arxiv.org/abs/1812.09976)
 - [ ] [Kopczyk, 2018, Quantum Machine Learning for data scientists](https://arxiv.org/abs/1804.10068)
 - [ ] [Schuld & Killoran, 2018, Quantum machine learning in feature Hilbert spaces](https://arxiv.org/abs/1803.07128)
 - [ ] [Zhao et al., 2018, Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf)[GitHub](https://gitlab.com/apozas/bayesian-dl-quantum)

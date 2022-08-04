@@ -40,6 +40,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Kerenidis & Prakash, 2022, Quantum machine learning with subspace states](https://arxiv.org/pdf/2202.00054.pdf)
 - [ ] [Kiss et al., 2022, Quantum neural networks force fields generation](https://iopscience.iop.org/article/10.1088/2632-2153/ac7d3c)
 - [ ] [Kyriienko & Magnusson, 2022, Unsupervised quantum machine learning for fraud detection](https://arxiv.org/pdf/2208.01203.pdf)
+- [ ] [Lai & Kuo & Liao, 2022, Syndrome decoding by quantum approximate optimization](https://arxiv.org/pdf/2207.05942.pdf)
 - [ ] [Li et al., 2022, Quantum Neural Network Classifiers: A tutorial](https://arxiv.org/pdf/2206.02806.pdf)
 - [ ] [Liang et al., 2022, PAN: Pulse Ansatz on NISQ Machines](https://arxiv.org/pdf/2208.01215.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)

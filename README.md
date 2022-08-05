@@ -24,6 +24,7 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Papers
 #### 2022
+- [ ] [Bermejo & Orus, 2022, Variational Quantum and Quantum-Inspired Clustering](https://arxiv.org/abs/2206.09893)
 - [ ] [Dawid et al., 2022, Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198)
 - [ ] [Di Matteo et al., 2022, Quantum computing with differentiable quantum transforms](https://arxiv.org/abs/2202.13414)
 - [ ] [Duffield & Benedetti & Rosenkranz, 2022, Bayesian Learning of Parameterised Quantum Circuits](https://arxiv.org/pdf/2206.07559.pdf)

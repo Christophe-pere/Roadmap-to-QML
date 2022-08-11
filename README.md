@@ -58,6 +58,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [X] [Schuld & Killoran, 2022, Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340)
 - [ ] [Simeone, 2022, An Introduction to Quantum Machine Learning for Engineers](https://arxiv.org/abs/2205.09510)
 - [ ] [Tilly et al., 2022, The VQE: a review of methods and best practices](https://arxiv.org/pdf/2111.05176.pdf)
+- [ ] [Wazni, Lo, McPheat, Sadrzadeh, 2022, A Quantum Natural Language Processing Approach to Pronoun Resolution](https://arxiv.org/pdf/2208.05393.pdf)
 - [ ] [Yang, Lu and Li, 2022, Accelerated quantum Monte Carlo with mitigated error on noisy quantum computer](https://arxiv.org/abs/2106.09880)
 
 #### 2021

@@ -50,6 +50,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Liang et al., 2022, PAN: Pulse Ansatz on NISQ Machines](https://arxiv.org/pdf/2208.01215.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
+- [ ] [Olivera-Atencio et al., 2022, Quantum reinforcement learning in the presence of thermal dissipation](https://arxiv.org/pdf/2208.06450.pdf)
 - [ ] [Ono et al., 2022, Demonstration of a bosonic quantum classifier with data re-uploading](https://arxiv.org/pdf/2207.06614.pdf)
 - [ ] [Oshiyama & Ohzeki, 2022, Benchmark of quantum‑inspired heuristic solvers for quadratic unconstrained binary optimization](https://www.nature.com/articles/s41598-022-06070-5.pdf)
 - [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)

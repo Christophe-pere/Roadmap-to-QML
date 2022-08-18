@@ -51,6 +51,8 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Lai & Kuo & Liao, 2022, Syndrome decoding by quantum approximate optimization](https://arxiv.org/pdf/2207.05942.pdf)
 - [ ] [Li et al., 2022, Quantum Neural Network Classifiers: A tutorial](https://arxiv.org/pdf/2206.02806.pdf)
 - [ ] [Liang et al., 2022, PAN: Pulse Ansatz on NISQ Machines](https://arxiv.org/pdf/2208.01215.pdf)
+- [ ] [Maheshwari & Garcia-Zapirain & Sierra-Sosa, 2022, Quantum Machine Learning Applications in the
+Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844718) 
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
 - [ ] [Olivera-Atencio et al., 2022, Quantum reinforcement learning in the presence of thermal dissipation](https://arxiv.org/pdf/2208.06450.pdf)

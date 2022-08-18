@@ -56,6 +56,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Oshiyama & Ohzeki, 2022, Benchmark of quantum‑inspired heuristic solvers for quadratic unconstrained binary optimization](https://www.nature.com/articles/s41598-022-06070-5.pdf)
 - [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)
 - [ ] [Park et al., 2022, Quantum multi-programming for Grover’s search](https://arxiv.org/pdf/2207.14464.pdf)
+- [ ] [Phan et al., 2022, On quantum factoring using noisy intermediate scale quantum computers](https://arxiv.org/pdf/2208.07085.pdf)
 - [ ] [Pozza et al., 2022, Quantum Reinforcement Learning: The maze problem](https://link.springer.com/article/10.1007/s42484-022-00068-y)
 - [ ] [Radha & Jao, 2022, Generalized quantum Similarity Learning](https://arxiv.org/pdf/2201.02310.pdf)
 - [ ] [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlepdf/2022/cs/d2cs00203e)

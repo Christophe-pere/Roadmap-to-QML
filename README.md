@@ -24,8 +24,9 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Papers
 #### 2022
+- [ ] [Beaudoin et al., 2022, Quantum Machine Learning for Material Synthesis and Hardware Security](https://arxiv.org/pdf/2208.08273.pdf)
 - [ ] [Bermejo & Orus, 2022, Variational Quantum and Quantum-Inspired Clustering](https://arxiv.org/abs/2206.09893)
-- [ ] [Cruz & Monteiro, 2022, Quantum Error Correstion via Noise Guessing Decoding](https://arxiv.org/pdf/2208.02744.pdf)
+- [ ] [Cruz & Monteiro, 2022, Quantum Error Correction via Noise Guessing Decoding](https://arxiv.org/pdf/2208.02744.pdf)
 - [ ] [Dawid et al., 2022, Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198)
 - [ ] [Di Matteo et al., 2022, Quantum computing with differentiable quantum transforms](https://arxiv.org/abs/2202.13414)
 - [ ] [Duffield & Benedetti & Rosenkranz, 2022, Bayesian Learning of Parameterised Quantum Circuits](https://arxiv.org/pdf/2206.07559.pdf)
@@ -54,7 +55,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)
 - [ ] [Park et al., 2022, Quantum multi-programming for Grover’s search](https://arxiv.org/pdf/2207.14464.pdf)
 - [ ] [Pozza et al., 2022, Quantum Reinforcement Learning: The maze problem](https://link.springer.com/article/10.1007/s42484-022-00068-y)
-- [ ] [Radha & Jao, 2022, Generalized quantum Similiraty Learning](https://arxiv.org/pdf/2201.02310.pdf)
+- [ ] [Radha & Jao, 2022, Generalized quantum Similarity Learning](https://arxiv.org/pdf/2201.02310.pdf)
 - [ ] [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlepdf/2022/cs/d2cs00203e)
 - [X] [Schuld & Killoran, 2022, Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340)
 - [ ] [Simeone, 2022, An Introduction to Quantum Machine Learning for Engineers](https://arxiv.org/abs/2205.09510)

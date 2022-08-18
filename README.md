@@ -31,6 +31,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Di Matteo et al., 2022, Quantum computing with differentiable quantum transforms](https://arxiv.org/abs/2202.13414)
 - [ ] [Duffield & Benedetti & Rosenkranz, 2022, Bayesian Learning of Parameterised Quantum Circuits](https://arxiv.org/pdf/2206.07559.pdf)
 - [ ] [Emmanoulopoulos & Dimoska, 2022, Quantum Machine Learning in Finance: Time Series Forecasting](https://arxiv.org/pdf/2202.00599.pdf)
+- [ ] [Ewaniuk et al., 2022, Realistic quantum photonic neural networks](https://arxiv.org/pdf/2208.06571.pdf)
 - [ ] [Fedorov et al., 2022, Quantum computing at the quantum advantage threshold: a down-to-business review](https://arxiv.org/abs/2203.17181)
 - [ ] [Fujii et al., 2022, Deep Variational Quantum Eigensolver: a divide-and-conquer method for solving a larger problem with smaller size quantum computers](https://arxiv.org/abs/2007.10917)
 - [ ] [Garcia, Benito, Garcia-Penalvo, 2022. Systematic Literature Review: Quantum Machine Learning and its applications](https://arxiv.org/abs/2201.04093)

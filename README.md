@@ -39,6 +39,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Gili et al., 2022, Do Quantum Circuit Born Machines Generalize?](https://arxiv.org/pdf/2207.13645.pdf)
 - [ ] [Grossi et al., 2022, Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection](https://arxiv.org/pdf/2208.07963.pdf)
 - [ ] [Guan & Fang & Ying, 2022, Verifying Fairness in Quantum Machine Learning](https://arxiv.org/pdf/2207.11173.pdf)
+- [ ] [Gyurik & Dunjko, 2022, On establishing learning separations between classical and quantum machine learning with classical data](https://arxiv.org/pdf/2208.06339.pdf)
 - [ ] [Hu et al., 2022, Quantum Neural Network Compression](https://arxiv.org/pdf/2207.01578.pdf)
 - [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 - [ ] [Ikeda, 2022, Quantum Extensive Form Games](https://arxiv.org/pdf/2207.05435.pdf) 

@@ -169,6 +169,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Otterbach et al., 2017, Unsupervised Machine Learning on a Hybrid Quantum Computer](https://arxiv.org/abs/1712.05771)[GitHub](https://github.com/BOHRTECHNOLOGY/quantum_tsp)
 - [ ] [Perdomo-Ortiz et al. 2017, Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/abs/1708.09757)
 - [ ] [Biamonte et al., 2016, Quantum machine Learning](https://arxiv.org/abs/1611.09347)
+- [ ] [Montanaro 2016, Quantum algorithms: an overview](https://www.nature.com/articles/npjqi201523.pdf)
 - [ ] [Aaronson, 2015, Quantum Machine Learning Algorithms: Read the Fine Print](https://www.scottaaronson.com/papers/qml.pdf)
 - [ ] [Fahri & Goldstone, 2014, Quantum Approximate Optimization Algorithms](https://arxiv.org/pdf/1411.4028.pdf)
 - [ ] [Schuld, Synayskly and Petruccione, 2014, The quest for a Quantum Neural Network](https://arxiv.org/pdf/1408.7005.pdf)

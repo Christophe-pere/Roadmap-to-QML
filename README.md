@@ -98,6 +98,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Bondesan & Welling, 2021, The Hinton in your Neural Network: a Quantum Field Theory View of Deep Learning](https://arxiv.org/abs/2103.04913v1)
 - [ ] [Caro et al., 2021, Generalization in quantum machine learning from few training data](https://arxiv.org/abs/2111.05292)
 - [ ] [Ding et al., 2021, Quantum Stream Learning](https://arxiv.org/pdf/2112.06628v1.pdf)
+- [ ] [Dutta et al., 2021, Single-qubit universal classifier implemented on an ion-trap quantum device](https://arxiv.org/pdf/2106.14059.pdf)
 - [ ] [Ezhov, 2021, On quantum Neural Networks](https://arxiv.org/pdf/2104.07106.pdf)
 - [ ] [Gratsea & Huembeli, 2021, Exploring Quantum Perceptron and Quantum Neural Network structures with a teacher-student scheme](https://arxiv.org/pdf/2105.01477.pdf)
 - [ ] [Herbert, 2021, Quantum Monte-Carlo Integration: The Full Advantage in Minimal Circuit Depth](https://arxiv.org/abs/2105.09100)

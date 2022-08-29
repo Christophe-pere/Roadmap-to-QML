@@ -82,6 +82,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Wu & Tao & Li, 2022, Scalable Quantum Neural Networks for Classification](https://arxiv.org/pdf/2208.07719.pdf)
 - [ ] [Yang, Lu and Li, 2022, Accelerated quantum Monte Carlo with mitigated error on noisy quantum computer](https://arxiv.org/abs/2106.09880)
 - [ ] [Yun & Park & Kim, 2022, Quantum Multi-Agent Meta Reinforcement Learning](https://arxiv.org/pdf/2208.11510)
+- [ ] [Zaborniak et al., 2022, A QUBO model of the RNA folding problem optimized by variational hybrid quantum annealing](https://arxiv.org/pdf/2208.04367.pdf)
 
 #### 2021
 - [ ] [Asfaw et al., 2021, Building a Quantum Engineering Undergraduate Program](https://arxiv.org/pdf/2108.0131.pdf)

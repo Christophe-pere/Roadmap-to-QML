@@ -26,6 +26,7 @@ This repository will contain the major papers, books and blog posts on QML
 #### 2022
 - [ ] [Beaudoin et al., 2022, Quantum Machine Learning for Material Synthesis and Hardware Security](https://arxiv.org/pdf/2208.08273.pdf)
 - [ ] [Bermejo & Orus, 2022, Variational Quantum and Quantum-Inspired Clustering](https://arxiv.org/abs/2206.09893)
+- [ ] [Buessen & Segal & Khait, 2022, Simulating time evolution on distributed quantum computers](https://arxiv.org/pdf/2208.07487.pdf)
 - [ ] [Caro et al., 2022, Generalization in quantum machine learning from few training data](https://www.nature.com/articles/s41467-022-32550-3.pdf)
 - [ ] [Cruz & Monteiro, 2022, Quantum Error Correction via Noise Guessing Decoding](https://arxiv.org/pdf/2208.02744.pdf)
 - [ ] [Dawid et al., 2022, Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198)

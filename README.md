@@ -39,6 +39,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Fujii et al., 2022, Deep Variational Quantum Eigensolver: a divide-and-conquer method for solving a larger problem with smaller size quantum computers](https://arxiv.org/abs/2007.10917)
 - [ ] [Garcia, Benito, Garcia-Penalvo, 2022. Systematic Literature Review: Quantum Machine Learning and its applications](https://arxiv.org/abs/2201.04093)
 - [ ] [Gentinetta et al., 2022, The complexity of quantum support vector machines](https://arxiv.org/abs/2203.00031)
+- [ ] [Ghosh & Ghosh, 2022, Classical and quantum machine learning applications in spintronics](https://arxiv.org/pdf/2207.12837.pdf)
 - [ ] [Gili et al., 2022, Do Quantum Circuit Born Machines Generalize?](https://arxiv.org/pdf/2207.13645.pdf)
 - [ ] [Grossi et al., 2022, Mixed Quantum-Classical Method For Fraud Detection with Quantum Feature Selection](https://arxiv.org/pdf/2208.07963.pdf)
 - [ ] [Guan & Fang & Ying, 2022, Verifying Fairness in Quantum Machine Learning](https://arxiv.org/pdf/2207.11173.pdf)

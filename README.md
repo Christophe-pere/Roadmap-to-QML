@@ -60,6 +60,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
 - [ ] [Neumann & Wezeman, 2022, Distributed Quantum Machine Learning](https://arxiv.org/pdf/2208.10316.pdf)
+- [ ] [Nguemto & Leyton-Ortega, 2022, Re-QGAN: an optimized adversarial quantum circuit learning framework](https://arxiv.org/pdf/2208.02165.pdf)
 - [ ] [Olivera-Atencio et al., 2022, Quantum reinforcement learning in the presence of thermal dissipation](https://arxiv.org/pdf/2208.06450.pdf)
 - [ ] [Ono et al., 2022, Demonstration of a bosonic quantum classifier with data re-uploading](https://arxiv.org/pdf/2207.06614.pdf)
 - [ ] [Oshiyama & Ohzeki, 2022, Benchmark of quantum‑inspired heuristic solvers for quadratic unconstrained binary optimization](https://www.nature.com/articles/s41598-022-06070-5.pdf)

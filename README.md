@@ -30,6 +30,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Cruz & Monteiro, 2022, Quantum Error Correction via Noise Guessing Decoding](https://arxiv.org/pdf/2208.02744.pdf)
 - [ ] [Dawid et al., 2022, Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198)
 - [ ] [Di Matteo et al., 2022, Quantum computing with differentiable quantum transforms](https://arxiv.org/abs/2202.13414)
+- [ ] [Ding & Spector, 2022, Evolutionary Quantum Architecture Search for Parametrized Quantum Circuits](https://arxiv.org/pdf/2208.11167.pdf)
 - [ ] [Duffield & Benedetti & Rosenkranz, 2022, Bayesian Learning of Parameterised Quantum Circuits](https://arxiv.org/pdf/2206.07559.pdf)
 - [ ] [Emmanoulopoulos & Dimoska, 2022, Quantum Machine Learning in Finance: Time Series Forecasting](https://arxiv.org/pdf/2202.00599.pdf)
 - [ ] [Ewaniuk et al., 2022, Realistic quantum photonic neural networks](https://arxiv.org/pdf/2208.06571.pdf)

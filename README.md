@@ -72,6 +72,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Simonetti, Perri & Gervasi, 2022, An example of use of Variational Methods in Quantum Machine Learning](https://arxiv.org/pdf/2208.04316.pdf)
 - [ ] [Tilly et al., 2022, The VQE: a review of methods and best practices](https://arxiv.org/pdf/2111.05176.pdf)
 - [ ] [Uvarov, 2022, Variational quantum algorithms for local Hamiltonian problems](https://arxiv.org/pdf/2208.11220)
+- [ ] [Viktorovich, 2022, Variational quantum algorithms for local Hamiltonian problems](https://arxiv.org/pdf/2208.11220.pdf)
 - [ ] [Wazni, Lo, McPheat, Sadrzadeh, 2022, A Quantum Natural Language Processing Approach to Pronoun Resolution](https://arxiv.org/pdf/2208.05393.pdf)
 - [ ] [Wilkinson & Hartmann, 2022, Evaluating the performance of sigmoid quantum perceptrons in quantum neural networks](https://arxiv.org/pdf/2208.06198.pdf)
 - [ ] [Wu & Tao & Li, 2022, Scalable Quantum Neural Networks for Classification](https://arxiv.org/pdf/2208.07719.pdf)

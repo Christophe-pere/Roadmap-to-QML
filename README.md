@@ -89,6 +89,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Zaborniak et al., 2022, A QUBO model of the RNA folding problem optimized by variational hybrid quantum annealing](https://arxiv.org/pdf/2208.04367.pdf)
 
 #### 2021
+- [ ] [Altares-Lopez & Ribeiro & Garcıa-Ripoll, 2021, Automatic design of quantum feature maps](https://arxiv.org/pdf/2105.12626.pdf)
 - [ ] [Asfaw et al., 2021, Building a Quantum Engineering Undergraduate Program](https://arxiv.org/pdf/2108.0131.pdf)
 - [ ] [Atchade-Adelomou et al., 2021, quantum Case-Based Reasoning (qCBR)](https://arxiv.org/abs/2104.00409)
 - [ ] [Beer et al., 2021, Quantum machine learning of graph-structured data](https://arxiv.org/pdf/2103.10837.pdf)

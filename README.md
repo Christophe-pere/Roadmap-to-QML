@@ -59,6 +59,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Lisnichenko & Protasov, 2022, Case study on quantum convolutional neural network scalability](https://arxiv.org/pdf/2207.07160.pdf)
 - [ ] [Maheshwari & Garcia-Zapirain & Sierra-Sosa, 2022, Quantum Machine Learning Applications in the
 Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844718) 
+- [ ] [Mancilla & Pere, 2022, A Preprocessing Perspective for Quantum Machine Learning Classification Advantage Using NISQ Algorithms](https://arxiv.org/pdf/2208.13251.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
 - [ ] [Neumann & Wezeman, 2022, Distributed Quantum Machine Learning](https://arxiv.org/pdf/2208.10316.pdf)

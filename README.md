@@ -60,6 +60,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Lisnichenko & Protasov, 2022, Case study on quantum convolutional neural network scalability](https://arxiv.org/pdf/2207.07160.pdf)
 - [ ] [Maheshwari & Garcia-Zapirain & Sierra-Sosa, 2022, Quantum Machine Learning Applications in the
 Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844718) 
+- [ ] [Majumder & Lewis & Bose, 2022, Variational Quantum Circuits for Multi-Qubit Gate Automata](https://arxiv.org/pdf/2209.00139.pdf)
 - [ ] [Mancilla & Pere, 2022, A Preprocessing Perspective for Quantum Machine Learning Classification Advantage Using NISQ Algorithms](https://arxiv.org/pdf/2208.13251.pdf)
 - [ ] [Martin & Plekhanov & Lubasch, 2022, Barren plateaus in quantum tensor network optimization](https://arxiv.org/pdf/2209.00292.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)

@@ -82,6 +82,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Tilly et al., 2022, The VQE: a review of methods and best practices](https://arxiv.org/pdf/2111.05176.pdf)
 - [ ] [Uvarov, 2022, Variational quantum algorithms for local Hamiltonian problems](https://arxiv.org/pdf/2208.11220)
 - [ ] [Viktorovich, 2022, Variational quantum algorithms for local Hamiltonian problems](https://arxiv.org/pdf/2208.11220.pdf)
+- [ ] [Wang et al. 2022, Symmetric Pruning in Quantum Neural Networks](https://arxiv.org/pdf/2208.14057.pdf)
 - [ ] [Wazni, Lo, McPheat, Sadrzadeh, 2022, A Quantum Natural Language Processing Approach to Pronoun Resolution](https://arxiv.org/pdf/2208.05393.pdf)
 - [ ] [Wilkinson & Hartmann, 2022, Evaluating the performance of sigmoid quantum perceptrons in quantum neural networks](https://arxiv.org/pdf/2208.06198.pdf)
 - [ ] [Wu & Tao & Li, 2022, Scalable Quantum Neural Networks for Classification](https://arxiv.org/pdf/2208.07719.pdf)
@@ -171,6 +172,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Zhao et al., 2018, Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf)[GitHub](https://gitlab.com/apozas/bayesian-dl-quantum)
 
 #### 2007-2017
+- [ ] [Arunachalam & de Wolf, 2017, A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806)
 - [ ] [Cao, Guerreschi, Aspuru-Guzik, 2017, Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240)[Github](https://github.com/inJeans/qnn)
 - [ ] [Dunjko & Briegel, 2017, Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
 - [ ] [Liu & Rebentrost, 2017, Quantum machine learning for quantum anomaly detection](https://arxiv.org/abs/1710.07405)

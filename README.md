@@ -73,6 +73,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Oshiyama & Ohzeki, 2022, Benchmark of quantum‑inspired heuristic solvers for quadratic unconstrained binary optimization](https://www.nature.com/articles/s41598-022-06070-5.pdf)
 - [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)
 - [ ] [Park et al., 2022, Quantum multi-programming for Grover’s search](https://arxiv.org/pdf/2207.14464.pdf)
+- [ ] [Peham & Burgholzer, 2022, Equivalence Checking of Quantum Circuits with the ZX-Calculus](https://arxiv.org/pdf/2208.12820.pdf)
 - [ ] [Phan et al., 2022, On quantum factoring using noisy intermediate-scale quantum computers](https://arxiv.org/pdf/2208.07085.pdf)
 - [ ] [Polson & Sokolov & Xu, 2022, Quantum Bayes AI](https://arxiv.org/pdf/2208.08068.pdf)
 - [ ] [Pozza et al., 2022, Quantum Reinforcement Learning: The maze problem](https://link.springer.com/article/10.1007/s42484-022-00068-y)

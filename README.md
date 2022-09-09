@@ -24,6 +24,7 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Papers
 #### 2022
+- [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 - [ ] [Beaudoin et al., 2022, Quantum Machine Learning for Material Synthesis and Hardware Security](https://arxiv.org/pdf/2208.08273.pdf)
 - [ ] [Bermejo & Orus, 2022, Variational Quantum and Quantum-Inspired Clustering](https://arxiv.org/abs/2206.09893)
 - [ ] [Buessen & Segal & Khait, 2022, Simulating time evolution on distributed quantum computers](https://arxiv.org/pdf/2208.07487.pdf)
@@ -47,7 +48,6 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Guan & Fang & Ying, 2022, Verifying Fairness in Quantum Machine Learning](https://arxiv.org/pdf/2207.11173.pdf)
 - [ ] [Gyurik & Dunjko, 2022, On establishing learning separations between classical and quantum machine learning with classical data](https://arxiv.org/pdf/2208.06339.pdf)
 - [ ] [Hu et al., 2022, Quantum Neural Network Compression](https://arxiv.org/pdf/2207.01578.pdf)
-- [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 - [ ] [Ikeda, 2022, Quantum Extensive Form Games](https://arxiv.org/pdf/2207.05435.pdf) 
 - [ ] [Incudini et al., 2022, Computing graph edit distance on quantum devices](https://link.springer.com/article/10.1007/s42484-022-00077-x)
 - [ ] [Jäger & Krems, 2022, Universal expressiveness of variational quantum classifiers and quantum kernels for support vector machines](https://arxiv.org/pdf/2207.05865.pdf)
@@ -66,6 +66,7 @@ This repository will contain the major papers, books and blog posts on QML
 Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844718) 
 - [ ] [Majumder & Lewis & Bose, 2022, Variational Quantum Circuits for Multi-Qubit Gate Automata](https://arxiv.org/pdf/2209.00139.pdf)
 - [ ] [Mancilla & Pere, 2022, A Preprocessing Perspective for Quantum Machine Learning Classification Advantage Using NISQ Algorithms](https://arxiv.org/pdf/2208.13251.pdf)
+- [ ] [Marconi et al., 2022, The role of coherence theory in attractor quantum neural networks](https://quantum-journal.org/papers/q-2022-09-08-794/)
 - [ ] [Martin & Plekhanov & Lubasch, 2022, Barren plateaus in quantum tensor network optimization](https://arxiv.org/pdf/2209.00292.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)

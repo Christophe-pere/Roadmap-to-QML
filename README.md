@@ -234,6 +234,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 
 ### Conferences
 
+- [ ] [QPL 2022, Quantum Physics and Logic](https://m.youtube.com/playlist?list=PLRW1t_lfNuYNRNgWnfUGwKhhWfIi2EpLe) 
 - [ ] [QTML 2021](https://www.youtube.com/watch?v=meTsqSkNLKI&list=PLaEuBnOE7AzNoNoSWgxd594PzCpJA6cGz&index=1)
 - [ ] [Ijaz, An introduction to Quantum Machine Learning](https://www.youtube.com/watch?v=-DWng3jyBIM)
 - [ ] [Schuld, 2020, Quantum Machine Learning](https://www.youtube.com/watch?v=C_lBYKV_pJo)

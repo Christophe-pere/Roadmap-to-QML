@@ -91,6 +91,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Radha & Jao, 2022, Generalized quantum Similarity Learning](https://arxiv.org/pdf/2201.02310.pdf)
 - [ ] [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlepdf/2022/cs/d2cs00203e)
 - [X] [Schuld & Killoran, 2022, Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340)
+- [ ] [Sharma & Kumar, 2022, A Comparative Study of Classical and Quantum Machine Learning Models for Sentimental Analysis](https://arxiv.org/pdf/2209.05142.pdf) 
 - [ ] [Simeone, 2022, An Introduction to Quantum Machine Learning for Engineers](https://arxiv.org/abs/2205.09510)
 - [ ] [Simonetti, Perri & Gervasi, 2022, An example of use of Variational Methods in Quantum Machine Learning](https://arxiv.org/pdf/2208.04316.pdf)
 - [ ] [Thanasilp et al., 2022, Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/pdf/2208.11060.pdf)

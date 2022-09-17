@@ -24,6 +24,7 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Papers
 #### 2022
+- [ ] [Aaronson, 2022, How Much Structure Is Needed for Huge Quantum Speedups?](https://arxiv.org/pdf/2209.06930.pdf)
 - [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 - [ ] [Beaudoin et al., 2022, Quantum Machine Learning for Material Synthesis and Hardware Security](https://arxiv.org/pdf/2208.08273.pdf)
 - [ ] [Bermejo & Orus, 2022, Variational Quantum and Quantum-Inspired Clustering](https://arxiv.org/abs/2206.09893)

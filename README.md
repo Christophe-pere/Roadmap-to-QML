@@ -83,6 +83,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Olivera-Atencio et al., 2022, Quantum reinforcement learning in the presence of thermal dissipation](https://arxiv.org/pdf/2208.06450.pdf)
 - [ ] [Ono et al., 2022, Demonstration of a bosonic quantum classifier with data re-uploading](https://arxiv.org/pdf/2207.06614.pdf)
 - [ ] [Oshiyama & Ohzeki, 2022, Benchmark of quantum‑inspired heuristic solvers for quadratic unconstrained binary optimization](https://www.nature.com/articles/s41598-022-06070-5.pdf)
+- [ ] [Otgonbaatar et al., 2022, Quantum Transfer Learning for Real-World, Small, and Large-Scale Datasets](https://arxiv.org/pdf/2209.07799.pdf)
 - [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)
 - [ ] [Park et al., 2022, Quantum multi-programming for Grover’s search](https://arxiv.org/pdf/2207.14464.pdf)
 - [ ] [Peham & Burgholzer, 2022, Equivalence Checking of Quantum Circuits with the ZX-Calculus](https://arxiv.org/pdf/2208.12820.pdf)

@@ -86,6 +86,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)
 - [ ] [Park et al., 2022, Quantum multi-programming for Grover’s search](https://arxiv.org/pdf/2207.14464.pdf)
 - [ ] [Peham & Burgholzer, 2022, Equivalence Checking of Quantum Circuits with the ZX-Calculus](https://arxiv.org/pdf/2208.12820.pdf)
+- [ ] [Peters & Schuld, 2022, Generalization despite overfitting in quantum machine learning models](https://arxiv.org/pdf/2209.05523.pdf)
 - [ ] [Phan et al., 2022, On quantum factoring using noisy intermediate-scale quantum computers](https://arxiv.org/pdf/2208.07085.pdf)
 - [ ] [Polson & Sokolov & Xu, 2022, Quantum Bayes AI](https://arxiv.org/pdf/2208.08068.pdf)
 - [ ] [Pozza et al., 2022, Quantum Reinforcement Learning: The maze problem](https://link.springer.com/article/10.1007/s42484-022-00068-y)
@@ -101,7 +102,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Tilly et al., 2022, The VQE: a review of methods and best practices](https://arxiv.org/pdf/2111.05176.pdf)
 - [ ] [Uvarov, 2022, Variational quantum algorithms for local Hamiltonian problems](https://arxiv.org/pdf/2208.11220)
 - [ ] [Viktorovich, 2022, Variational quantum algorithms for local Hamiltonian problems](https://arxiv.org/pdf/2208.11220.pdf)
-- [ ] [Wang & Jiang, 2022
+- [ ] [Wang & Jiang, 2022, Data reconstruction based on quantum neural networks](https://arxiv.org/pdf/2209.05711.pdf)
 - [ ] [Wang et al. 2022, Symmetric Pruning in Quantum Neural Networks](https://arxiv.org/pdf/2208.14057.pdf)
 - [ ] [Wazni, Lo, McPheat, Sadrzadeh, 2022, A Quantum Natural Language Processing Approach to Pronoun Resolution](https://arxiv.org/pdf/2208.05393.pdf)
 - [ ] [Wilkinson & Hartmann, 2022, Evaluating the performance of sigmoid quantum perceptrons in quantum neural networks](https://arxiv.org/pdf/2208.06198.pdf)

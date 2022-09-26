@@ -98,6 +98,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Sharma & Kumar, 2022, A Comparative Study of Classical and Quantum Machine Learning Models for Sentimental Analysis](https://arxiv.org/pdf/2209.05142.pdf) 
 - [ ] [Simeone, 2022, An Introduction to Quantum Machine Learning for Engineers](https://arxiv.org/abs/2205.09510)
 - [ ] [Simonetti, Perri & Gervasi, 2022, An example of use of Variational Methods in Quantum Machine Learning](https://arxiv.org/pdf/2208.04316.pdf)
+- [ ] [Tancara et al., 2022, Kernel-based quantum regressor models learn non-Markovianity](https://arxiv.org/pdf/2209.11655.pdf)
 - [ ] [Thanasilp et al., 2022, Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/pdf/2208.11060.pdf)
 - [ ] [Tibaldi et al., 2022, Bayesian Optimization for QAOA](https://arxiv.org/pdf/2209.03824.pdf)
 - [ ] [Tilly et al., 2022, The VQE: a review of methods and best practices](https://arxiv.org/pdf/2111.05176.pdf)

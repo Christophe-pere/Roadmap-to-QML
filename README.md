@@ -56,6 +56,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Hu et al., 2022, Quantum Neural Network Compression](https://arxiv.org/pdf/2207.01578.pdf)
 - [ ] [Ikeda, 2022, Quantum Extensive Form Games](https://arxiv.org/pdf/2207.05435.pdf) 
 - [ ] [Incudini et al., 2022, Computing graph edit distance on quantum devices](https://link.springer.com/article/10.1007/s42484-022-00077-x)
+- [ ] [Incudini & Martini & Di Pierro, 2022, Structure Learning of Quantum Embeddings](https://arxiv.org/pdf/2209.11144.pdf)
 - [ ] [Jäger & Krems, 2022, Universal expressiveness of variational quantum classifiers and quantum kernels for support vector machines](https://arxiv.org/pdf/2207.05865.pdf)
 - [ ] [Kerenidis & Prakash, 2022, Quantum machine learning with subspace states](https://arxiv.org/pdf/2202.00054.pdf)
 - [ ] [Kim & Huh & Park, 2022, Classical-to-quantum convolutional neural network transfer learning](https://arxiv.org/pdf/2208.14708.pdf)

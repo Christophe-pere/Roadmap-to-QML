@@ -29,7 +29,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 - [ ] [Akhalwaya et al., 2022, Exponential advantage on noisy quantum computers](https://arxiv.org/pdf/2209.09371.pdf)
 - [ ] [Anand et al., 2022, Exploring the role of parameters in variational quantum algorithms](https://arxiv.org/pdf/2209.14405.pdf)
-- [ ] [Anschuetz et al., 2022 Interpretable Quantum Advantage in Neural Sequence Learning](https://arxiv.org/pdf/2209.14353.pdf)
+- [ ] [Anschuetz et al., 2022 Interpretable Quantum Advantage in Neural Sequence Learning](https://arxiv.org/pdf/2209.14353.pdf)
 - [ ] [Back & Run & Kim, 2022, Scalable Quantum Convolutional Neural Networks](https://arxiv.org/pdf/2209.12372.pdf)
 - [ ] [Beaudoin et al., 2022, Quantum Machine Learning for Material Synthesis and Hardware Security](https://arxiv.org/pdf/2208.08273.pdf)
 - [ ] [Bermejo & Orus, 2022, Variational Quantum and Quantum-Inspired Clustering](https://arxiv.org/abs/2206.09893)

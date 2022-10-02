@@ -75,6 +75,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Li et al., 2022, Quantum Neural Network Classifiers: A tutorial](https://arxiv.org/pdf/2206.02806.pdf)
 - [ ] [Liang et al., 2022, PAN: Pulse Ansatz on NISQ Machines](https://arxiv.org/pdf/2208.01215.pdf)
 - [ ] [Liao et al., 2022, Decohering Tensor Network Quantum Machine Learning Models](https://arxiv.org/pdf/2209.01195.pdf)
+- [ ] [Lin & Li & Huang, 2022, Quaternion-based machine learning on topological quantum systems](https://arxiv.org/pdf/2209.14551.pdf)
 - [ ] [Lisnichenko & Protasov, 2022, Case study on quantum convolutional neural network scalability](https://arxiv.org/pdf/2207.07160.pdf)
 - [ ] [Maheshwari & Garcia-Zapirain & Sierra-Sosa, 2022, Quantum Machine Learning Applications in the
 Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844718) 

@@ -105,6 +105,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Polson & Sokolov & Xu, 2022, Quantum Bayes AI](https://arxiv.org/pdf/2208.08068.pdf)
 - [ ] [Pozza et al., 2022, Quantum Reinforcement Learning: The maze problem](https://link.springer.com/article/10.1007/s42484-022-00068-y)
 - [ ] [Qi, 2022, Federated Quantum Natural Gradient Descent for Quantum Federated Learning](https://arxiv.org/pdf/2209.00564.pdf)
+- [ ] [Qin et al., 2022, Improving Quantum Classifier Performance in NISQ Computers by Voting Strategy from Ensemble Learning](https://arxiv.org/pdf/2210.01656.pdf)
 - [ ] [Radha & Jao, 2022, Generalized quantum Similarity Learning](https://arxiv.org/pdf/2201.02310.pdf)
 - [ ] [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlepdf/2022/cs/d2cs00203e)
 - [X] [Schuld & Killoran, 2022, Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340)

@@ -130,6 +130,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Yun & Park & Kim, 2022, Quantum Multi-Agent Meta Reinforcement Learning](https://arxiv.org/pdf/2208.11510)
 - [ ] [Yun et al., 2022, Slimmable Quantum Federated Learning](https://arxiv.org/pdf/2207.10221.pdf)
 - [ ] [Zaborniak et al., 2022, A QUBO model of the RNA folding problem optimized by variational hybrid quantum annealing](https://arxiv.org/pdf/2208.04367.pdf)
+- [ ] [Zhang et al., 2022, QUARK: A Gradient-Free Quantum Learning Framework For Classification Tasks](https://arxiv.org/pdf/2210.01311.pdf)
 
 #### 2021
 - [ ] [Altares-Lopez & Ribeiro & Garcıa-Ripoll, 2021, Automatic design of quantum feature maps](https://arxiv.org/pdf/2105.12626.pdf)

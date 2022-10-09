@@ -89,6 +89,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Martin & Plekhanov & Lubasch, 2022, Barren plateaus in quantum tensor network optimization](https://arxiv.org/pdf/2209.00292.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
+- [ ] [Murakami & Zhao, 2022, AutoQC: Automated Synthesis of Quantum Circuits Using Neural Network](https://arxiv.org/pdf/2210.02766.pdf)
 - [ ] [Nakaji & Tezuka & Yamamoto, 2022, Deterministic and random features for large-scale quantum kernel machine](https://arxiv.org/pdf/2209.01958.pdf)
 - [ ] [Neumann & Wezeman, 2022, Distributed Quantum Machine Learning](https://arxiv.org/pdf/2208.10316.pdf)
 - [ ] [Nguemto & Leyton-Ortega, 2022, Re-QGAN: an optimized adversarial quantum circuit learning framework](https://arxiv.org/pdf/2208.02165.pdf)

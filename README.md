@@ -125,6 +125,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Wang et al. 2022, Symmetric Pruning in Quantum Neural Networks](https://arxiv.org/pdf/2208.14057.pdf)
 - [ ] [Wazni, Lo, McPheat, Sadrzadeh, 2022, A Quantum Natural Language Processing Approach to Pronoun Resolution](https://arxiv.org/pdf/2208.05393.pdf)
 - [ ] [Wilkinson & Hartmann, 2022, Evaluating the performance of sigmoid quantum perceptrons in quantum neural networks](https://arxiv.org/pdf/2208.06198.pdf)
+- [ ] [Willsch et al., 2022, Hybrid Quantum Classical Simulations](https://arxiv.org/pdf/2210.02811.pdf)
 - [ ] [Wu & Tao & Li, 2022, Scalable Quantum Neural Networks for Classification](https://arxiv.org/pdf/2208.07719.pdf)
 - [ ] [Yang, Lu and Li, 2022, Accelerated quantum Monte Carlo with mitigated error on noisy quantum computer](https://arxiv.org/abs/2106.09880)
 - [ ] [Yun & Park & Kim, 2022, Quantum Multi-Agent Meta Reinforcement Learning](https://arxiv.org/pdf/2208.11510)

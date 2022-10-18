@@ -82,6 +82,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Liao et al., 2022, Decohering Tensor Network Quantum Machine Learning Models](https://arxiv.org/pdf/2209.01195.pdf)
 - [ ] [Lin & Li & Huang, 2022, Quaternion-based machine learning on topological quantum systems](https://arxiv.org/pdf/2209.14551.pdf)
 - [ ] [Lisnichenko & Protasov, 2022, Case study on quantum convolutional neural network scalability](https://arxiv.org/pdf/2207.07160.pdf)
+- [ ] [Liu et al., 2022, Noise can be helpful for variational quantum algorithms](https://arxiv.org/pdf/2210.06723.pdf)
 - [ ] [Maheshwari & Garcia-Zapirain & Sierra-Sosa, 2022, Quantum Machine Learning Applications in the
 Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844718) 
 - [ ] [Majumder & Lewis & Bose, 2022, Variational Quantum Circuits for Multi-Qubit Gate Automata](https://arxiv.org/pdf/2209.00139.pdf)

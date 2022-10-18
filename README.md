@@ -123,6 +123,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Thanasilp et al., 2022, Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/pdf/2208.11060.pdf)
 - [ ] [Tibaldi et al., 2022, Bayesian Optimization for QAOA](https://arxiv.org/pdf/2209.03824.pdf)
 - [ ] [Tilly et al., 2022, The VQE: a review of methods and best practices](https://arxiv.org/pdf/2111.05176.pdf)
+- [ ] [Tomesh & Allen & Saleem, 2022, Quantum-classical tradeoffs and multi-controlled quantum gate decompositions in variational algorithms](https://arxiv.org/pdf/2210.04378.pdf)
 - [ ] [Uvarov, 2022, Variational quantum algorithms for local Hamiltonian problems](https://arxiv.org/pdf/2208.11220)
 - [ ] [Viktorovich, 2022, Variational quantum algorithms for local Hamiltonian problems](https://arxiv.org/pdf/2208.11220.pdf)
 - [ ] [Wang & Jiang, 2022, Data reconstruction based on quantum neural networks](https://arxiv.org/pdf/2209.05711.pdf)

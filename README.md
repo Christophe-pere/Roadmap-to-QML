@@ -36,6 +36,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Buessen & Segal & Khait, 2022, Simulating time evolution on distributed quantum computers](https://arxiv.org/pdf/2208.07487.pdf)
 - [ ] [Callison & Browne, 2022, Improved maximum-likelihood quantum amplitude estimation](https://arxiv.org/pdf/2209.03321.pdf)
 - [ ] [Caro et al., 2022, Generalization in quantum machine learning from few training data](https://www.nature.com/articles/s41467-022-32550-3.pdf)
+- [ ] [Ceroni et al., 2022, Generating Approximate Ground States of Molecules Using Quantum Machine Learning](https://arxiv.org/pdf/2210.05489.pdf)
 - [ ] [Chaudhary et al., 2022, Towards a scalable discrete quantum generative adversarial neural network](https://arxiv.org/pdf/2209.13993.pdf)
 - [ ] [Cherrat et al., 2022, Quantum Vision Transformers](https://arxiv.org/pdf/2209.08167.pdf)
 - [ ] [Consiglio & Appollaro & Wiesniak, 2022, A Variational Approach to the Quantum Separability Problem](https://arxiv.org/pdf/2209.01430.pdf)

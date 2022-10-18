@@ -101,7 +101,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Oshiyama & Ohzeki, 2022, Benchmark of quantum‑inspired heuristic solvers for quadratic unconstrained binary optimization](https://www.nature.com/articles/s41598-022-06070-5.pdf)
 - [ ] [Otgonbaatar et al., 2022, Quantum Transfer Learning for Real-World, Small, and Large-Scale Datasets](https://arxiv.org/pdf/2209.07799.pdf)
 - [ ] [Patel et al., 2022, Reinforcement Learning Assisted Recursive QAOA](https://arxiv.org/pdf/2207.06294.pdf)
-- [ ] [Park & Huh & Park, 2022, Variational quantum one-class classifier](https://arxiv.org/pdf/2210.02674.pdf)
+- [ ] [Park & Huh & Park, 2022, Variational quantum one-class classifier](https://arxiv.org/pdf/2210.02674.pdf)
 - [ ] [Park et al., 2022, Quantum multi-programming for Grover’s search](https://arxiv.org/pdf/2207.14464.pdf)
 - [ ] [Pechal et al., 2022, Direct implementation of a perceptron in superconducting circuit quantum hardware](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033190)
 - [ ] [Peham & Burgholzer, 2022, Equivalence Checking of Quantum Circuits with the ZX-Calculus](https://arxiv.org/pdf/2208.12820.pdf)

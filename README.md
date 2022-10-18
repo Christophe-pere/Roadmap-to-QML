@@ -116,6 +116,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Simeone, 2022, An Introduction to Quantum Machine Learning for Engineers](https://arxiv.org/abs/2205.09510)
 - [ ] [Simonetti, Perri & Gervasi, 2022, An example of use of Variational Methods in Quantum Machine Learning](https://arxiv.org/pdf/2208.04316.pdf)
 - [ ] [Srikumar & Hill & Hollenberg, 2022, A kernel-based quantum random forest for improved classification](https://arxiv.org/pdf/2210.02355.pdf)
+- [ ] [Szulakowska & Dai, 2022, Bayesian autotuning of Hubbard model quantum simulators](https://arxiv.org/pdf/2210.03077.pdf)
 - [ ] [Takeda et al., 2022, Quantum-inspired algorithm applied to extreme learning](https://arxiv.org/pdf/2209.12452.pdf)
 - [ ] [Tancara et al., 2022, Kernel-based quantum regressor models learn non-Markovianity](https://arxiv.org/pdf/2209.11655.pdf)
 - [ ] [Thanasilp et al., 2022, Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/pdf/2208.11060.pdf)

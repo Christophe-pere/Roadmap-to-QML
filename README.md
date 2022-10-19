@@ -157,6 +157,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Dutta et al., 2021, Single-qubit universal classifier implemented on an ion-trap quantum device](https://arxiv.org/pdf/2106.14059.pdf)
 - [ ] [Ezhov, 2021, On quantum Neural Networks](https://arxiv.org/pdf/2104.07106.pdf)
 - [ ] [Gratsea & Huembeli, 2021, Exploring Quantum Perceptron and Quantum Neural Network structures with a teacher-student scheme](https://arxiv.org/pdf/2105.01477.pdf)
+- [ ] [Henry et al., 2021, Quantum evolution kernel : Machine learning on graphs with programmable arrays of qubits](https://arxiv.org/pdf/2107.03247.pdf)
 - [ ] [Herbert, 2021, Quantum Monte-Carlo Integration: The Full Advantage in Minimal Circuit Depth](https://arxiv.org/abs/2105.09100)
 - [ ] [Highman & Bedford, 2021, Quantum Deep Learning: Sampling Neural Nets with a Quantum Annealer](https://arxiv.org/abs/2107.08710v1)
 - [ ] [Huang et al., 2021, Quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)

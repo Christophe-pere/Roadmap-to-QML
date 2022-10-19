@@ -262,14 +262,20 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 ---
 
 ### Blogs
-- [x] [Qiskit medium, 2022, We are releasing a free hands-on quantum machine learning course online](https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d)
-- [ ] [Qunasys, , Accelerating variational quantum algorithms](https://qunasys.medium.com/accelerating-variational-quantum-algorithms-147b9bf02dc0)
-- [ ] [What is quantum CNN?](https://analyticsindiamag.com/what-is-a-quantum-convolutional-neural-network/)
-- [ ] [Dunjko et al., 2020, A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/)
-- [ ] [IBM quantum research, At what cost can we simulate l'orge quantum circuit on small quantum computers](https://research.ibm.com/blog/circuit-knitting-with-classical-communication)
-- [ ] [Pennylane, How to QML](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
 - [ ] [IEEE Spectrum, 2022, Quantum Error Correction](https://spectrum.ieee.org/quantum-error-correction)
+- [x] [Qiskit medium, 2022, We are releasing a free hands-on quantum machine learning course online](https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d)
+- [ ] [Schuetz & Brubaker & Katzgraber, 2022, Combinatorial Optimization with Physics-Inspired Graph Neural Networks, Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/combinatorial-optimization-with-physics-inspired-graph-neural-networks/)
+- [ ] [Albornoz, 2021, How to QML, Pennylane](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
+- [ ] [Ceroni, 2021, The Quantum Graph Recurrent Neural Network, Pennylane](https://pennylane.ai/qml/demos/tutorial_qgrnn.html)
 - [ ] [Google AI Blog, 2021, Quantum Machine Learning and the Power of Data](http://ai.googleblog.com/2021/06/quantum-machine-learning-and-power-of.html "Quantum Machine Learning and the Power of Data")
+- [ ] [Dunjko et al., 2020, A non-review of Quantum Machine Learning: trends and explorations](https://quantum-journal.org/views/qv-2020-03-17-32/)
+- [ ] [Qunasys, Accelerating variational quantum algorithms](https://qunasys.medium.com/accelerating-variational-quantum-algorithms-147b9bf02dc0)
+- [ ] [What is quantum CNN?](https://analyticsindiamag.com/what-is-a-quantum-convolutional-neural-network/)
+- [ ] [IBM quantum research, At what cost can we simulate large quantum circuit on small quantum computers](https://research.ibm.com/blog/circuit-knitting-with-classical-communication)
+
+
+
+
 
 ---
 

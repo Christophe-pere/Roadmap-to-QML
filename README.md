@@ -27,6 +27,7 @@ This repository will contain the major papers, books and blog posts on QML
 
 - [ ] [Aaronson, 2022, How Much Structure Is Needed for Huge Quantum Speedups?](https://arxiv.org/pdf/2209.06930.pdf)
 - [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
+- [ ] [Ai et al., 2022, Decompositional Quantum Graph Neural Network](https://arxiv.org/abs/2201.05158)
 - [ ] [Akhalwaya et al., 2022, Exponential advantage on noisy quantum computers](https://arxiv.org/pdf/2209.09371.pdf)
 - [ ] [Anand et al., 2022, Exploring the role of parameters in variational quantum algorithms](https://arxiv.org/pdf/2209.14405.pdf)
 - [ ] [Anschuetz et al., 2022 Interpretable Quantum Advantage in Neural Sequence Learning](https://arxiv.org/pdf/2209.14353.pdf)
@@ -212,6 +213,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Orus, Mugel, Lizaso, 2019, Quantum computing for finance: Overview and prospects](https://reader.elsevier.com/reader/sd/pii/S2405428318300571?token=28567476E673DC1C0822AC2F1154825443428F74A17965BB0E4D30561A2E7C12D38E491BF32236FCE86B36A40EF401FC&originRegion=us-east-1&originCreation=20220629022528)
 - [ ] [Tacchino et al., 2019, An artificial neuron implemented on an actual quantum processor](https://www.nature.com/articles/s41534-019-0140-4.pdf)
 - [ ] [Verdon et al., 2019, Learning to learn with quantum neural networks via classical neural networks](https://arxiv.org/abs/1907.05415)
+- [ ] [Verdon et al. 2019, Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264)
 - [ ] [Wang et al., 2019, Quantized Generative Adversarial Network](https://arxiv.org/abs/1901.08263)
 - [ ] [Zoufal, Lucchi and Werner, 2019, Quantum Generative Adversarial Networks for learning and loading random distributions](https://www.nature.com/articles/s41534-019-0223-2)
 

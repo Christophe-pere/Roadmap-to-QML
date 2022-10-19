@@ -167,6 +167,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Jaderberg et al., 2021, Quantum self-supervised Learning](https://arxiv.org/abs/2103.14653)
 - [ ] [Kartsaklis et al., 2021, lambeq: An Efficient High-Level Python Library for Quantum NLP](https://www.arxiv.org/abs/2110.04236)
 - [ ] [Kerenedis, 2021, Quantum Algorithms for Unsupervised Machine Learning and Neural Networks](https://arxiv.org/pdf/2111.03598.pdf)
+- [ ] [Kyriienko & Paine & Elfving, 2021, Solving nonlinear differential equations with differentiable quantum circuits](https://arxiv.org/pdf/2011.10395.pdf)
 - [ ] [Li & Deng, 2021, Recent advances for quantum classifiers](https://arxiv.org/pdf/2108.13421.pdf)
 - [ ] [Liu et al., 2021, Layer VQE: A Variational Approach for Combinatorial Optimization on Noisy Quantum Computers](https://arxiv.org/abs/2102.05566)
 - [ ] [Lopatnikova, Tran and Sisson, 2021, An Introduction to Quantum Computing for Statisticians and Data Scientists](https://arxiv.org/abs/2112.06587)

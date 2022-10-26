@@ -325,6 +325,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk)
 - [ ] [Strawberry Fields](https://github.com/xanaduai/strawberryfields)
 - [ ] [Q#](https://azure.microsoft.com/en-ca/resources/development-kit/quantum-computing/)
+- [ ] [OpenQAOA](https://arxiv.org/pdf/2210.08695.pdf)
 
 ---
 

@@ -77,6 +77,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Kiss et al., 2022, Quantum neural networks force fields generation](https://iopscience.iop.org/article/10.1088/2632-2153/ac7d3c)
 - [ ] [Koch, 2022, Quantum Machine Learning using the ZXW-Calculus](https://arxiv.org/pdf/2210.11523.pdf)
 - [ ] [Koike-Akino & Wang & Wang, 2022, AutoQML: Automated Quantum Machine Learning for Wi-Fi Integrated Sensing and Communications](https://arxiv.org/abs/2205.09115)
+- [ ] [Koßmann et al., 2022, Deep-Circuit QAOA](https://arxiv.org/pdf/2210.12406.pdf)
 - [ ] [Krenn et al., 2022, Artificial Intelligence and Machine Learning for Quantum Technologies](https://arxiv.org/pdf/2208.03836.pdf)
 - [ ] [Krol et al. 2022, Efficient parameterized compilation for hybrid quantum programming](https://arxiv.org/pdf/2208.07683.pdf)
 - [ ] [Kyriienko & Magnusson, 2022, Unsupervised quantum machine learning for fraud detection](https://arxiv.org/pdf/2208.01203.pdf)

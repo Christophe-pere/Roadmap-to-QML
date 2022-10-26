@@ -98,6 +98,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Nakaji & Tezuka & Yamamoto, 2022, Deterministic and random features for large-scale quantum kernel machine](https://arxiv.org/pdf/2209.01958.pdf)
 - [ ] [Neumann & Wezeman, 2022, Distributed Quantum Machine Learning](https://arxiv.org/pdf/2208.10316.pdf)
 - [ ] [Nguemto & Leyton-Ortega, 2022, Re-QGAN: an optimized adversarial quantum circuit learning framework](https://arxiv.org/pdf/2208.02165.pdf)
+- [ ] [Nguyen et al., 2022, Theory for Equivariant Quantum Neural Networks](https://arxiv.org/pdf/2210.08566.pdf)
 - [ ] [Olivera-Atencio et al., 2022, Quantum reinforcement learning in the presence of thermal dissipation](https://arxiv.org/pdf/2208.06450.pdf)
 - [ ] [Ono et al., 2022, Demonstration of a bosonic quantum classifier with data re-uploading](https://arxiv.org/pdf/2207.06614.pdf)
 - [ ] [Oshiyama & Ohzeki, 2022, Benchmark of quantum‑inspired heuristic solvers for quadratic unconstrained binary optimization](https://www.nature.com/articles/s41598-022-06070-5.pdf)

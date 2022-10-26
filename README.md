@@ -92,6 +92,7 @@ This repository will contain the major papers, books and blog posts on QML
 Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844718) 
 - [ ] [Majumder & Lewis & Bose, 2022, Variational Quantum Circuits for Multi-Qubit Gate Automata](https://arxiv.org/pdf/2209.00139.pdf)
 - [ ] [Mancilla & Pere, 2022, A Preprocessing Perspective for Quantum Machine Learning Classification Advantage Using NISQ Algorithms](https://arxiv.org/pdf/2208.13251.pdf)
+- [ ] [Marcianò et al., 2022, Deep Neural Networks as the Semi-classical Limit of Topological Quantum Neural Networks: The problem of generalisation](https://arxiv.org/pdf/2210.13741.pdf)
 - [ ] [Marconi et al., 2022, The role of coherence theory in attractor quantum neural networks](https://quantum-journal.org/papers/q-2022-09-08-794/)
 - [ ] [Markidis, 2022, On the Physics-Informed Neural Networks for Quantum Computers](https://arxiv.org/pdf/2209.14754.pdf)
 - [ ] [Martin & Plekhanov & Lubasch, 2022, Barren plateaus in quantum tensor network optimization](https://arxiv.org/pdf/2209.00292.pdf)

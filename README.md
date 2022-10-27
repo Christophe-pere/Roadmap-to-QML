@@ -76,6 +76,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Kerenidis & Prakash, 2022, Quantum machine learning with subspace states](https://arxiv.org/pdf/2202.00054.pdf)
 - [ ] [Kim & Huh & Park, 2022, Classical-to-quantum convolutional neural network transfer learning](https://arxiv.org/pdf/2208.14708.pdf)
 - [ ] [Kiss et al., 2022, Quantum neural networks force fields generation](https://iopscience.iop.org/article/10.1088/2632-2153/ac7d3c)
+- [ ] [Kiss et al., 2022, Conditional Born machine for Monte Carlo event generation](https://journals.aps.org/pra/pdf/10.1103/PhysRevA.106.022612)
 - [ ] [Koch, 2022, Quantum Machine Learning using the ZXW-Calculus](https://arxiv.org/pdf/2210.11523.pdf)
 - [ ] [Koike-Akino & Wang, 2022, AutoQML: Automated Quantum Machine Learning for Wi-Fi Integrated Sensing and Communications](https://arxiv.org/abs/2205.09115)
 - [ ] [Koßmann et al., 2022, Deep-Circuit QAOA](https://arxiv.org/pdf/2210.12406.pdf)

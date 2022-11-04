@@ -126,6 +126,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Qin et al., 2022, Improving Quantum Classifier Performance in NISQ Computers by Voting Strategy from Ensemble Learning](https://arxiv.org/pdf/2210.01656.pdf)
 - [ ] [Radha & Jao, 2022, Generalized quantum Similarity Learning](https://arxiv.org/pdf/2201.02310.pdf)
 - [ ] [Ragone et al., 2022, Representation Theory for Geometric Quantum Machine Learning](https://arxiv.org/pdf/2210.07980.pdf)
+- [ ] [Robertson et al., 2022, Escaping barren plateaus in approximate quantum compiling](https://scirate.com/arxiv/2210.09191)
 - [ ] [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlepdf/2022/cs/d2cs00203e)
 - [ ] [Schatzki et al., 2022, Theoretical Guarantees for Permutation-Equivariant Quantum Neural Networks](https://scirate.com/arxiv/2210.09974)
 - [X] [Schuld & Killoran, 2022, Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340)

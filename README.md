@@ -100,6 +100,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Marconi et al., 2022, The role of coherence theory in attractor quantum neural networks](https://quantum-journal.org/papers/q-2022-09-08-794/)
 - [ ] [Markidis, 2022, On the Physics-Informed Neural Networks for Quantum Computers](https://arxiv.org/pdf/2209.14754.pdf)
 - [ ] [Martin & Plekhanov & Lubasch, 2022, Barren plateaus in quantum tensor network optimization](https://arxiv.org/pdf/2209.00292.pdf)
+- [ ] [Melo & Earnest-Noble & Tacchino, 2022, Pulse-efficient quantum machine learning](https://arxiv.org/pdf/2211.01383.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Meyer et al., 2022, A Survey on Quantum Reinforcement Learning](https://arxiv.org/pdf/2211.03464.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)

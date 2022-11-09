@@ -119,6 +119,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Park et al., 2022, Quantum multi-programming for Grover’s search](https://arxiv.org/pdf/2207.14464.pdf)
 - [ ] [Pechal et al., 2022, Direct implementation of a perceptron in superconducting circuit quantum hardware](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033190)
 - [ ] [Peham & Burgholzer, 2022, Equivalence Checking of Quantum Circuits with the ZX-Calculus](https://arxiv.org/pdf/2208.12820.pdf)
+- [ ] [Peixoto et al., 2022, Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets](https://arxiv.org/pdf/2211.03233.pdf)
 - [ ] [Peters & Schuld, 2022, Generalization despite overfitting in quantum machine learning models](https://arxiv.org/pdf/2209.05523.pdf)
 - [ ] [Phan et al., 2022, On quantum factoring using noisy intermediate-scale quantum computers](https://arxiv.org/pdf/2208.07085.pdf)
 - [ ] [Polson & Sokolov & Xu, 2022, Quantum Bayes AI](https://arxiv.org/pdf/2208.08068.pdf)

@@ -101,6 +101,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Markidis, 2022, On the Physics-Informed Neural Networks for Quantum Computers](https://arxiv.org/pdf/2209.14754.pdf)
 - [ ] [Martin & Plekhanov & Lubasch, 2022, Barren plateaus in quantum tensor network optimization](https://arxiv.org/pdf/2209.00292.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
+- [ ] [Meyer et al., 2022, A Survey on Quantum Reinforcement Learning](https://arxiv.org/pdf/2211.03464.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
 - [ ] [Monaco et al., 2022, Quantum phase detection generalisation from marginal quantum neural network models](https://arxiv.org/abs/2208.08748)
 - [ ] [Motamedi & Ronagh, 2022, Gibbs Sampling of Periodic Potentials on a Quantum Computer](https://arxiv.org/pdf/2210.08104.pdf)

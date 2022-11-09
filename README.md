@@ -139,6 +139,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Simonetti, Perri & Gervasi, 2022, An example of use of Variational Methods in Quantum Machine Learning](https://arxiv.org/pdf/2208.04316.pdf)
 - [ ] [Stella Li et al., 2022, Q-LSTM Language Model Decentralized Quantum Multilingual Pre-Trained Language Model for Privacy Protection](https://arxiv.org/pdf/2210.03221.pdf)
 - [ ] [Stein et al., 2022, QuCNN : A Quantum Convolutional Neural Network with Entanglement Based Backpropagation](https://arxiv.org/pdf/2210.05443.pdf)
+- [ ] [Steinmüller et al., 2022, eXplainable AI for Quantum Machine Learning](https://arxiv.org/pdf/2211.01441.pdf)
 - [ ] [Srikumar & Hill & Hollenberg, 2022, A kernel-based quantum random forest for improved classification](https://arxiv.org/pdf/2210.02355.pdf)
 - [ ] [Szulakowska & Dai, 2022, Bayesian autotuning of Hubbard model quantum simulators](https://arxiv.org/pdf/2210.03077.pdf)
 - [ ] [Takeda et al., 2022, Quantum-inspired algorithm applied to extreme learning](https://arxiv.org/pdf/2209.12452.pdf)

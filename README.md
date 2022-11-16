@@ -70,6 +70,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Gyurik & Dunjko, 2022, On establishing learning separations between classical and quantum machine learning with classical data](https://arxiv.org/pdf/2208.06339.pdf)
 - [ ] [Heimann & Schönhoff & Franck Kirchner, 2022, Learning capability of parametrized quantum circuits](https://arxiv.org/pdf/2209.10345.pdf)
 - [ ] [Hu et al., 2022, Quantum Neural Network Compression](https://arxiv.org/pdf/2207.01578.pdf)
+- [ ] [Ibrahim et al., 2022, Pulse-Level Optimization of Parameterized Quantum Circuits for Variational Quantum Algorithms](https://arxiv.org/pdf/2211.00350.pdf)
 - [ ] [Ikeda, 2022, Quantum Extensive Form Games](https://arxiv.org/pdf/2207.05435.pdf) 
 - [ ] [Incudini et al., 2022, Computing graph edit distance on quantum devices](https://link.springer.com/article/10.1007/s42484-022-00077-x)
 - [ ] [Incudini & Martini & Di Pierro, 2022, Structure Learning of Quantum Embeddings](https://arxiv.org/pdf/2209.11144.pdf)

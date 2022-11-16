@@ -209,6 +209,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Wei et al., 2021, A Quantum Convolutional Neural Network on NISQ Devices](https://arxiv.org/pdf/2104.06918.pdf)
 - [ ] [Wossnig, 2021, Quantum Machine Learning For Classical Data](https://arxiv.org/pdf/2105.03684.pdf)
 - [ ] [Yarkoni et al., 2021, Quantum Annealing for Industry Applications: Introduction and Review](https://arxiv.org/abs/2112.07491)
+- [ ] [Zhou et al., 2022, QuanGCN: Noise-Adaptive Training for Robust Quantum Graph Convolutional Networks](https://arxiv.org/pdf/2211.07379.pdf)
 
 #### 2020
 - [ ] [Abbas et al. 2020, The power of quantum neural networks](https://arxiv.org/abs/2011.00027)

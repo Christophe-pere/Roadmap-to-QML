@@ -36,6 +36,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Bermejo & Orus, 2022, Variational Quantum and Quantum-Inspired Clustering](https://arxiv.org/abs/2206.09893)
 - [ ] [Bittel & Watty & Kliesch, 2022, Fast gradient estimation for variational quantum algorithms](https://arxiv.org/pdf/2210.06484.pdf)
 - [ ] [Bödeker & Fiorelli & Müller, 2022, Optimal storage capacity of quantum Hopfield neural networks](https://arxiv.org/pdf/2210.07894.pdf)
+- [ ] [Bravo et al., 2022, Universal Quantum Perceptrons for Quantum Machine Learning](https://arxiv.org/pdf/2211.07075.pdf)
 - [ ] [Buessen & Segal & Khait, 2022, Simulating time evolution on distributed quantum computers](https://arxiv.org/pdf/2208.07487.pdf)
 - [ ] [Callison & Browne, 2022, Improved maximum-likelihood quantum amplitude estimation](https://arxiv.org/pdf/2209.03321.pdf)
 - [ ] [Caro et al., 2022, Generalization in quantum machine learning from few training data](https://www.nature.com/articles/s41467-022-32550-3.pdf)

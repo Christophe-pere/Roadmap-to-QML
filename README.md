@@ -109,6 +109,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Monaco et al., 2022, Quantum phase detection generalisation from marginal quantum neural network models](https://arxiv.org/abs/2208.08748)
 - [ ] [Motamedi & Ronagh, 2022, Gibbs Sampling of Periodic Potentials on a Quantum Computer](https://arxiv.org/pdf/2210.08104.pdf)
 - [ ] [Murakami & Zhao, 2022, AutoQC: Automated Synthesis of Quantum Circuits Using Neural Network](https://arxiv.org/pdf/2210.02766.pdf)
+- [ ] [Mustafa & Morapakula & Jain, 2022, Variational Quantum Algorithms for Chemical Simulation and Drug Discovery](https://arxiv.org/pdf/2211.07854.pdf)
 - [ ] [Nakaji & Tezuka & Yamamoto, 2022, Deterministic and random features for large-scale quantum kernel machine](https://arxiv.org/pdf/2209.01958.pdf)
 - [ ] [Neumann & Wezeman, 2022, Distributed Quantum Machine Learning](https://arxiv.org/pdf/2208.10316.pdf)
 - [ ] [Nguemto & Leyton-Ortega, 2022, Re-QGAN: an optimized adversarial quantum circuit learning framework](https://arxiv.org/pdf/2208.02165.pdf)

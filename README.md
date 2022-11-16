@@ -202,6 +202,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Motta & Rice, 2021, Emerging quantum computing algorithms for quantum chemistry](https://arxiv.org/pdf/2109.02873.pdf)
 - [ ] [Perlin et al., 2021, Quantum circuit cutting with maximum-likelihood tomography](https://www.nature.com/articles/s41534-021-00390-6)
 - [ ] [Perrier, Youssry and Ferrie, 2021, QDataset: Quantum Datasets for Machine Learning](https://arxiv.org/abs/2108.06661) [GitHub](https://github.com/eperrier/QDataSet)
+- [ ] [Pira & Ferrie, 2022, An Invitation to Distributed Quantum Neural Networks
 - [ ] [Qian et al., 2021, The dilemma of quantum neural networks](https://arxiv.org/pdf/2106.04975.pdf)
 - [ ] [Roget, Di Molfetta and Kadri, 2021, Quantum Perceptron Revisited: Computational-Statistical Tradeoffs](https://arxiv.org/pdf/2106.02496.pdf)
 - [ ] [Schuld, 2021, Supervised quantum machine learning models are kernel methods](https://arxiv.org/abs/2101.11020)
@@ -209,6 +210,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Wei et al., 2021, A Quantum Convolutional Neural Network on NISQ Devices](https://arxiv.org/pdf/2104.06918.pdf)
 - [ ] [Wossnig, 2021, Quantum Machine Learning For Classical Data](https://arxiv.org/pdf/2105.03684.pdf)
 - [ ] [Yarkoni et al., 2021, Quantum Annealing for Industry Applications: Introduction and Review](https://arxiv.org/abs/2112.07491)
+- [ ] [Zheng & Wang & Zhang, 2022, A quantum neural network with efficient optimization and interpretability](https://arxiv.org/pdf/2211.05793.pdf)
 - [ ] [Zhou et al., 2022, QuanGCN: Noise-Adaptive Training for Robust Quantum Graph Convolutional Networks](https://arxiv.org/pdf/2211.07379.pdf)
 
 #### 2020

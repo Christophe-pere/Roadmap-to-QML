@@ -146,6 +146,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Schenk et al., 2022, Hybrid actor-critic algorithm for quantum reinforcement learning at CERN beam lines](https://arxiv.org/pdf/2209.11044.pdf)
 - [ ] [Simeone, 2022, An Introduction to Quantum Machine Learning for Engineers](https://arxiv.org/abs/2205.09510)
 - [ ] [Simonetti, Perri & Gervasi, 2022, An example of use of Variational Methods in Quantum Machine Learning](https://arxiv.org/pdf/2208.04316.pdf)
+- [ ] [Smith & Paige & Kim, 2022, Faster variational quantum algorithms with quantum kernel-based surrogate models](https://arxiv.org/pdf/2211.01134.pdf)
 - [ ] [Stella Li et al., 2022, Q-LSTM Language Model Decentralized Quantum Multilingual Pre-Trained Language Model for Privacy Protection](https://arxiv.org/pdf/2210.03221.pdf)
 - [ ] [Stein et al., 2022, QuCNN : A Quantum Convolutional Neural Network with Entanglement Based Backpropagation](https://arxiv.org/pdf/2210.05443.pdf)
 - [ ] [Steinmüller et al., 2022, eXplainable AI for Quantum Machine Learning](https://arxiv.org/pdf/2211.01441.pdf)

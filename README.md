@@ -110,6 +110,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
 - [ ] [Monaco et al., 2022, Quantum phase detection generalisation from marginal quantum neural network models](https://arxiv.org/abs/2208.08748)
 - [ ] [Motamedi & Ronagh, 2022, Gibbs Sampling of Periodic Potentials on a Quantum Computer](https://arxiv.org/pdf/2210.08104.pdf)
+- [ ] [Moussa et al., 2022, Resource frugal optimizer for quantum machine learning](https://arxiv.org/pdf/2211.04965.pdf)
 - [ ] [Murakami & Zhao, 2022, AutoQC: Automated Synthesis of Quantum Circuits Using Neural Network](https://arxiv.org/pdf/2210.02766.pdf)
 - [ ] [Mustafa & Morapakula & Jain, 2022, Variational Quantum Algorithms for Chemical Simulation and Drug Discovery](https://arxiv.org/pdf/2211.07854.pdf)
 - [ ] [Nakaji & Tezuka & Yamamoto, 2022, Deterministic and random features for large-scale quantum kernel machine](https://arxiv.org/pdf/2209.01958.pdf)

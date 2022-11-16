@@ -93,6 +93,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Lin & Li & Huang, 2022, Quaternion-based machine learning on topological quantum systems](https://arxiv.org/pdf/2209.14551.pdf)
 - [ ] [Lisnichenko & Protasov, 2022, Case study on quantum convolutional neural network scalability](https://arxiv.org/pdf/2207.07160.pdf)
 - [ ] [Liu et al., 2022, Noise can be helpful for variational quantum algorithms](https://arxiv.org/pdf/2210.06723.pdf)
+- [ ] [Liu et al., 2022, Quantum Power Flows: From Theory to Practice](https://arxiv.org/pdf/2211.05728.pdf)
 - [ ] [Lourens et al., 2022, Architecture representations for quantum convolutional neural networks](https://arxiv.org/pdf/2210.15073.pdf)
 - [ ] [Maheshwari & Garcia-Zapirain & Sierra-Sosa, 2022, Quantum Machine Learning Applications in the
 Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844718) 
@@ -133,6 +134,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Radha & Jao, 2022, Generalized quantum Similarity Learning](https://arxiv.org/pdf/2201.02310.pdf)
 - [ ] [Ragone et al., 2022, Representation Theory for Geometric Quantum Machine Learning](https://arxiv.org/pdf/2210.07980.pdf)
 - [ ] [Robertson et al., 2022, Escaping barren plateaus in approximate quantum compiling](https://scirate.com/arxiv/2210.09191)
+- [ ] [Sagingalieva et al., 2022, Hybrid quantum neural network for drug response prediction](https://arxiv.org/pdf/2211.05777.pdf)
 - [ ] [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlepdf/2022/cs/d2cs00203e)
 - [ ] [Schatzki et al., 2022, Theoretical Guarantees for Permutation-Equivariant Quantum Neural Networks](https://scirate.com/arxiv/2210.09974)
 - [X] [Schuld & Killoran, 2022, Is quantum advantage the right goal for quantum machine learning?](https://arxiv.org/abs/2203.01340)
@@ -167,6 +169,8 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Zaborniak et al., 2022, A QUBO model of the RNA folding problem optimized by variational hybrid quantum annealing](https://arxiv.org/pdf/2208.04367.pdf)
 - [ ] [Zhang & Wang, 2022, An efficient combination strategy for hybird quantum ensemble classifier](https://arxiv.org/pdf/2210.06785.pdf)
 - [ ] [Zhang et al., 2022, QUARK: A Gradient-Free Quantum Learning Framework For Classification Tasks](https://arxiv.org/pdf/2210.01311.pdf)
+- [ ] [Zheng & Wang & Zhang, 2022, A quantum neural network with efficient optimization and interpretability](https://arxiv.org/pdf/2211.05793.pdf)
+- [ ] [Zhou et al., 2022, QuanGCN: Noise-Adaptive Training for Robust Quantum Graph Convolutional Networks](https://arxiv.org/pdf/2211.07379.pdf)
 
 #### 2021
 - [ ] [Altares-Lopez & Ribeiro & Garcıa-Ripoll, 2021, Automatic design of quantum feature maps](https://arxiv.org/pdf/2105.12626.pdf)
@@ -210,8 +214,7 @@ chemistry on near-term quantum computers](https://www.nature.com/articles/s41534
 - [ ] [Wei et al., 2021, A Quantum Convolutional Neural Network on NISQ Devices](https://arxiv.org/pdf/2104.06918.pdf)
 - [ ] [Wossnig, 2021, Quantum Machine Learning For Classical Data](https://arxiv.org/pdf/2105.03684.pdf)
 - [ ] [Yarkoni et al., 2021, Quantum Annealing for Industry Applications: Introduction and Review](https://arxiv.org/abs/2112.07491)
-- [ ] [Zheng & Wang & Zhang, 2022, A quantum neural network with efficient optimization and interpretability](https://arxiv.org/pdf/2211.05793.pdf)
-- [ ] [Zhou et al., 2022, QuanGCN: Noise-Adaptive Training for Robust Quantum Graph Convolutional Networks](https://arxiv.org/pdf/2211.07379.pdf)
+
 
 #### 2020
 - [ ] [Abbas et al. 2020, The power of quantum neural networks](https://arxiv.org/abs/2011.00027)

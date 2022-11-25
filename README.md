@@ -25,7 +25,7 @@ This repository will contain the major papers, books and blog posts on QML
 ### Papers
 #### 2022
 
-- [List of all papers from 2022]()
+- [List of all papers from 2022](https://github.com/Christophe-pere/Roadmap-to-QML/blob/main/2022/2022.md)
 
 - [ ] [Aaronson, 2022, How Much Structure Is Needed for Huge Quantum Speedups?](https://arxiv.org/pdf/2209.06930.pdf)
 - [ ] [Abhijith J. et al., 2022, Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)

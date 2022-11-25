@@ -49,6 +49,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Consiglio & Appollaro & Wiesniak, 2022, A Variational Approach to the Quantum Separability Problem](https://arxiv.org/pdf/2209.01430.pdf)
 - [ ] [Cimini et al., 2022, Deep reinforcement learning for quantum multiparameter estimation](https://arxiv.org/pdf/2209.00671.pdf)
 - [ ] [Cruz & Monteiro, 2022, Quantum Error Correction via Noise Guessing Decoding](https://arxiv.org/pdf/2208.02744.pdf)
+- [ ] [Cumming & Thomas, 2022, Using a quantum computer to solve a real-world problem – what can be achieved today?](https://arxiv.org/pdf/2211.13080.pdf)
 - [ ] [Dasgupta & Paine, 2022, Loading Probability Distributions in a Quantum circuit](https://arxiv.org/pdf/2208.13372.pdf)
 - [ ] [Dawid et al., 2022, Modern applications of machine learning in quantum sciences](https://arxiv.org/abs/2204.04198)
 - [ ] [Di Matteo et al., 2022, Quantum computing with differentiable quantum transforms](https://arxiv.org/abs/2202.13414)

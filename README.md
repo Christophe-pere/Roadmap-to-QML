@@ -112,6 +112,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Melo & Earnest-Noble & Tacchino, 2022, Pulse-efficient quantum machine learning](https://arxiv.org/pdf/2211.01383.pdf)
 - [ ] [Mensa et al., 2022, Quantum Machine Learning Framework for Virtual Screening in Drug Discovery: a Prospective Quantum Advantage](https://arxiv.org/pdf/2204.04017.pdf)
 - [ ] [Meyer et al., 2022, A Survey on Quantum Reinforcement Learning](https://arxiv.org/pdf/2211.03464.pdf)
+- [ ] [MindSpore Quantum Developers, 2022, Benchmarking Variational Quantum Eigensolvers for Quantum Chemistry](https://arxiv.org/pdf/2211.12775.pdf)
 - [ ] [Mitsuda et al., 2022, Approximate complex amplitude encoding algorithm and its application to classification problem in financial operations](https://arxiv.org/pdf/2211.13039.pdf)
 - [ ] [Miyahara & Roychowdhury, 2022, Quantum Advantage in Variational Bayes Inference](https://arxiv.org/pdf/2207.03104.pdf)
 - [ ] [Monaco et al., 2022, Quantum phase detection generalisation from marginal quantum neural network models](https://arxiv.org/abs/2208.08748)

@@ -159,6 +159,7 @@ Biomedical Domain: A Systematic Review](https://ieeexplore.ieee.org/stamp/stamp.
 - [ ] [Takeda et al., 2022, Quantum-inspired algorithm applied to extreme learning](https://arxiv.org/pdf/2209.12452.pdf)
 - [ ] [Tancara et al., 2022, Kernel-based quantum regressor models learn non-Markovianity](https://arxiv.org/pdf/2209.11655.pdf)
 - [ ] [Tang & Yan & Hancock, 2022, From Quantum Graph Computing to Quantum Graph Learning: A Survey](https://www.researchgate.net/publication/358763206_From_Quantum_Graph_Computing_to_Quantum_Graph_Learning_A_Survey)
+- [ ] [Tapia et al., 2022, Fraud detection with a single-qubit quantum neural network](https://arxiv.org/pdf/2211.13191.pdf)
 - [ ] [Thanasilp et al., 2022, Exponential concentration and untrainability in quantum kernel methods](https://arxiv.org/pdf/2208.11060.pdf)
 - [ ] [Tibaldi et al., 2022, Bayesian Optimization for QAOA](https://arxiv.org/pdf/2209.03824.pdf)
 - [ ] [Tilly et al., 2022, The VQE: a review of methods and best practices](https://arxiv.org/pdf/2111.05176.pdf)

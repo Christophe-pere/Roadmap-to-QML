@@ -101,8 +101,9 @@ This repository will contain the major papers, books and blog posts on QML
 ### MOOC
 - [ ] [Preskill, 2022, PH219, Quantum Computing](http://theory.caltech.edu/~preskill/ph219/ph219_2022.html)
 - [ ] [Peter Wittek, 2019, QML](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
-- [ ] [Qiskit, 2022, QML](https://qiskit.org/learn/course/machine-learning-course)
+- [ ] [Qiskit, 2022, Quantum simulation](https://qiskit.org/learn/course/machine-learning-course)
 - [ ] [Qiskit, 2021, Quantum Machine Learning | 2021 Qiskit Global Summer School](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI)
+- [ ] [Qiskit, 2020, Quantum computing and Quantum Hardware](https://qiskit.org/learn/summer-school/introduction-to-quantum-computing-and-quantum-hardware-2020/)
 - [ ] [Pennylane, QML](https://pennylane.ai/qml/index.html)
 - [ ] [Xanadu, Codebook](https://codebook.xanadu.ai/)
 - [ ] [CERN, Elias Fernandez-Combarro Alvarez, "A practical introduction to quantum computing: from qubits to quantum machine learning and beyond" 7 lectures](https://indico.cern.ch/category/12909/)

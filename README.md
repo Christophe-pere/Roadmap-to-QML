@@ -61,6 +61,11 @@ This repository will contain the major papers, books and blog posts on QML
 ---
 
 ### Quantum Workforce 
+
+#### 2023 
+
+- [ ] [Melnikov et al., 2023, Quantum Machine Learning: from physics to software engineering](https://arxiv.org/pdf/2301.01851.pdf) 
+
 #### 2022
 - [ ] [Kaur & Venegas-Gomez, 2022, Defining the quantum workforce landscape: a review of global quantum education initiatives](https://arxiv.org/pdf/2202.08940.pdf)
 - [ ] [Peron et al., 2022, Quantum Undergraduate Education and Scientific Training](https://arxiv.org/abs/2109.13850)

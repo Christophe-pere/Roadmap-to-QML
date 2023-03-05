@@ -28,6 +28,10 @@
 
 - [Ciliberto et al., 2018, Quantum machine learning: a classical perspective](https://royalsocietypublishing.org/doi/10.1098/rspa.2017.0551)
 
+### 2017
+
+- [Arunachalam & de Wolf, 2017, A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806)
+
 ### 2016 
 
 - [Biamonte et al., 2016, Quantum Machine Learning](https://arxiv.org/abs/1611.09347)

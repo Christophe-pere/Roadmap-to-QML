@@ -10,6 +10,7 @@
 - [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d2cs00203e)
 - [Tang & Yan & Edwin, 2022, From Quantum Graph Computing to Quantum Graph Learning: A Survey](https://arxiv.org/abs/2202.09506)
 
+
 ### 2021
 
 - [Huang et al., 2021, Power of data in quantum machine learning](https://www.nature.com/articles/s41467-021-22539-9)

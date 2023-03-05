@@ -8,6 +8,7 @@
 ### 2022
 
 - [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d2cs00203e)
+- [Tang & Yan & Edwin, 2022, From Quantum Graph Computing to Quantum Graph Learning: A Survey](https://arxiv.org/abs/2202.09506)
 
 ### 2021
 
@@ -16,6 +17,7 @@
 ### 2020 
 
 - [Cerezo et al., 2020, Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265)
+- [Henriet et al., 2020, Quantum computing with neutral atoms](https://arxiv.org/abs/2006.12326)
 
 ### 2019 
 

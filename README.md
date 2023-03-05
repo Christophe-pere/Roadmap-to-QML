@@ -86,7 +86,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Baker, 2023, Quantum detection of time series anomalies](https://pennylane.ai/qml/demos/tutorial_univariate_qvr.html)
 - [ ] [Draškić, 2023, How to run big quantum circuits on small quantum computers in PennyLane](https://pennylane.ai/blog/2023/01/how-to-run-big-quantum-circuits-on-small-quantum-computers-in-pennylane/)
 - [ ] [East, 2022, Introduction to Geometric Quantum Machine Learning](https://pennylane.ai/qml/demos/tutorial_geometric_qml.html)
-- [ ] [Schuld 2023, Why measuring performance is our biggest blind spot in quantum machine learning](https://pennylane.ai/blog/2022/03/why-measuring-performance-is-our-biggest-blind-spot-in-quantum-machine-learning/)
+- [ ] [Schuld 2022, Why measuring performance is our biggest blind spot in quantum machine learning](https://pennylane.ai/blog/2022/03/why-measuring-performance-is-our-biggest-blind-spot-in-quantum-machine-learning/)
 - [ ] [IEEE Spectrum, 2022, Quantum Error Correction](https://spectrum.ieee.org/quantum-error-correction)
 - [x] [Qiskit medium, 2022, We are releasing a free hands-on quantum machine learning course online](https://medium.com/qiskit/were-releasing-a-free-hands-on-quantum-machine-learning-course-online-c9313e78ea2d)
 - [ ] [Schuetz & Brubaker & Katzgraber, 2022, Combinatorial Optimization with Physics-Inspired Graph Neural Networks, Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/combinatorial-optimization-with-physics-inspired-graph-neural-networks/)

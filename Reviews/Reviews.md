@@ -7,6 +7,8 @@
 
 ### 2022
 
+- [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d2cs00203e)
+
 ### 2021
 
 - [Huang et al., 2021, Power of data in quantum machine learning](https://www.nature.com/articles/s41467-021-22539-9)

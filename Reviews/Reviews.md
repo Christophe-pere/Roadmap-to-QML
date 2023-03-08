@@ -8,6 +8,7 @@
 
 ### 2022
 
+- [Cerezo et al., 2022, Challenges and opportunities in quantum machine learning](https://www.nature.com/articles/s43588-022-00311-3)
 - [Garcia & Cruz-Benito & arcia-Penalvo, 2022, Systematic Literature Review: Quantum Machine Learning and its applications](https://arxiv.org/abs/2201.04093)
 - [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d2cs00203e)
 - [Tang & Yan & Edwin, 2022, From Quantum Graph Computing to Quantum Graph Learning: A Survey](https://arxiv.org/abs/2202.09506)

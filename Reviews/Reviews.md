@@ -3,12 +3,13 @@
 
 ### 2023
 
+- [Lamata, 2023, Quantum Machine Learning Implementations: Proposals and Experiments](https://arxiv.org/pdf/2303.06263.pdf)
 - [Melnikov et al., 2023, Quantum machine learning: from physics to software engineering](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2165452)
 - [Zeguendry & Jarir & Quafafou, 2023, Quantum Machine Learning: A Review and Case Studies](https://www.mdpi.com/1099-4300/25/2/287)
 
 ### 2022
 
-- [Cerezo et al., 2022, Challenges and opportunities in quantum machine learning](https://www.nature.com/articles/s43588-022-00311-3)
+- [Cerezo et al., 2022, Challenges and opportunities in quantum machine learning](https://arxiv.org/pdf/2303.09491v1.pdf)
 - [Garcia & Cruz-Benito & arcia-Penalvo, 2022, Systematic Literature Review: Quantum Machine Learning and its applications](https://arxiv.org/abs/2201.04093)
 - [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d2cs00203e)
 - [Tang & Yan & Edwin, 2022, From Quantum Graph Computing to Quantum Graph Learning: A Survey](https://arxiv.org/abs/2202.09506)

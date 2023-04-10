@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pere
+    given-names: Christophe
+    orcid: https://orcid.org/0000-0002-8902-787X
+title: "Roadmap to QML"
+version: 1.0
+date-released: 2022-09-22

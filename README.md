@@ -67,6 +67,7 @@ This repository will contain the major papers, books and blog posts on QML
 ### Quantum Workforce 
 
 #### 2023 
+- [ ] [De Luca & Chen, 2023, Teaching Quantum Machine Learning in Computer Science](https://ieeexplore.ieee.org/abstract/document/10092171)
 - [ ] [Melnikov et al., 2023, Quantum Machine Learning: from physics to software engineering](https://arxiv.org/pdf/2301.01851.pdf) 
 
 #### 2022

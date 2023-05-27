@@ -14,6 +14,7 @@ This repository will contain the major papers, books and blog posts on QML
 ---
 ## Quantum Machine Learning
 ### Books
+- [ ] [Combarro & González-Castillo, 2023, A Practical Guide to Quantum Machine Learning and Quantum Optimization, Packt Publishing](https://www.packtpub.com/product/a-practical-guide-to-quantum-machine-learning-and-quantum-optimization/9781804613832)
 - [ ] [Hidary, 2022, Quantum Computing: An Applied Approach, 2nd edition](https://github.com/JackHidary/quantumcomputingbook)
 - [ ] [Schuld & Petruccione, 2022, Machine Learning with Quantum Computers](https://link.springer.com/book/10.1007/978-3-030-83098-4)
 - [ ] [Wong, 2022. Introduction to classical and quantum computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)

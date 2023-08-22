@@ -69,6 +69,7 @@ This repository will contain the major papers, books and blog posts on QML
 
 #### 2023 
 - [ ] [Freericks & Doughty, 2023, Should we trade off higher-level mathematics for abstraction to improve student understanding of quantum mechanics?](https://arxiv.org/pdf/2305.00062.pdf)
+- [ ] [Goorney et al., 2023, The Quantum Curriculum Transformation Framework for the development of Quantum Information Science and Technology Education](https://arxiv.org/pdf/2308.10371)
 - [ ] [De Luca & Chen, 2023, Teaching Quantum Machine Learning in Computer Science](https://ieeexplore.ieee.org/abstract/document/10092171)
 - [ ] [Melnikov et al., 2023, Quantum Machine Learning: from physics to software engineering](https://arxiv.org/pdf/2301.01851.pdf) 
 

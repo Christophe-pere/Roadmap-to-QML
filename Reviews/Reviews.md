@@ -4,6 +4,7 @@
 ### 2023
 
 - [Blekos et al., 2023, A Review on Quantum Approximate Optimization Algorithm and its Variants](https://arxiv.org/pdf/2306.09198)
+- [Dalzell et al., 2023, Quantum algorithms: A survey of applications and end-to-end complexities](https://arxiv.org/abs/2310.03011)
 - [Lamata, 2023, Quantum Machine Learning Implementations: Proposals and Experiments](https://arxiv.org/pdf/2303.06263.pdf)
 - [Melnikov et al., 2023, Quantum machine learning: from physics to software engineering](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2165452)
 - [Zeguendry & Jarir & Quafafou, 2023, Quantum Machine Learning: A Review and Case Studies](https://www.mdpi.com/1099-4300/25/2/287)

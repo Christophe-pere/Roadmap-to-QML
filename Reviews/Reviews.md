@@ -8,6 +8,7 @@
 - [Klau & Zöller & Tutschku, 2023, Bringing Quantum Algorithms to Automated Machine Learning: A Systematic Review of AutoML Frameworks Regarding Extensibility for QML Algorithms](https://arxiv.org/pdf/2310.04238) 
 - [Lamata, 2023, Quantum Machine Learning Implementations: Proposals and Experiments](https://arxiv.org/pdf/2303.06263.pdf)
 - [Melnikov et al., 2023, Quantum machine learning: from physics to software engineering](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2165452)
+- [Zaman et al., 2023, A Survey on Quantum Machine Learning: Current Trends, Challenges, Opportunities, and the Road Ahead](https://arxiv.org/pdf/2310.10315)
 - [Zeguendry & Jarir & Quafafou, 2023, Quantum Machine Learning: A Review and Case Studies](https://www.mdpi.com/1099-4300/25/2/287)
 
 ### 2022

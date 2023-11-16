@@ -142,6 +142,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [Strawberry Fields](https://github.com/xanaduai/strawberryfields)
 - [ ] [Q#](https://azure.microsoft.com/en-ca/resources/development-kit/quantum-computing/)
 - [ ] [OpenQAOA](https://arxiv.org/pdf/2210.08695.pdf)
+- [ ] [sQUlearn, Kremlin et al., 2023, A Python Library for Quantum Machine Learning](https://arxiv.org/pdf/2311.08990)
 
 ---
 

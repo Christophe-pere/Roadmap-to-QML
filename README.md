@@ -29,6 +29,13 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Papers
 
+
+
+#### 2024 
+
+- [List of all papers from 2024](https://github.com/Christophe-pere/Roadmap-to-QML/blob/main/2024/2024.md)
+
+
 #### 2023 
 
 - [List of all papers from 2023](https://github.com/Christophe-pere/Roadmap-to-QML/blob/main/2023/2023.md)

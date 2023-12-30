@@ -108,6 +108,7 @@ This repository will contain the major papers, books and blog posts on QML
 ---
 
 ### Conferences
+- [ ] [2023 Mathematical Aspects of Quantum Learning Workshop, IPAM](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SckwZK0xfc7itiq9nLWJeUF)
 - [ ] [Quantum Google AI, 2022, Quantum Summer Symposium](https://www.youtube.com/playlist?list=PLpO2pyKisOjLmyDOYwa8akgOHnCkXrKFg) 
 - [ ] [QPL 2022, Quantum Physics and Logic](https://m.youtube.com/playlist?list=PLRW1t_lfNuYNRNgWnfUGwKhhWfIi2EpLe) 
 - [ ] [QTML 2021](https://www.youtube.com/watch?v=meTsqSkNLKI&list=PLaEuBnOE7AzNoNoSWgxd594PzCpJA6cGz&index=1)

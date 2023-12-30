@@ -3,6 +3,7 @@
 
 ### 2023
 
+- [Au-Yeung et al., 2023, Quantum algorithms for scientific applications](https://arxiv.org/pdf/2312.14904.pdf)
 - [Blekos et al., 2023, A Review on Quantum Approximate Optimization Algorithm and its Variants](https://arxiv.org/pdf/2306.09198)
 - [Dalzell et al., 2023, Quantum algorithms: A survey of applications and end-to-end complexities](https://arxiv.org/abs/2310.03011)
 - [Klau & Zöller & Tutschku, 2023, Bringing Quantum Algorithms to Automated Machine Learning: A Systematic Review of AutoML Frameworks Regarding Extensibility for QML Algorithms](https://arxiv.org/pdf/2310.04238) 

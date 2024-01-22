@@ -1,5 +1,10 @@
 # What are the reviews on QML? 
 
+### 2024 
+
+- [Franco et al., 2024, Predominant Aspects on Security for Quantum Machine Learning: Literature Review](https://arxiv.org/pdf/2401.07774)
+- [Huang et al., 2024, Learning shallow quantum circuits](https://arxiv.org/pdf/2401.10095)
+
 
 ### 2023
 

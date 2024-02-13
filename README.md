@@ -74,6 +74,10 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Quantum Workforce 
 
+#### 2024 
+
+- [Rönkkö et al., 2024, On-Premises Superconducting Quantum Computer for Education and Research](https://arxiv.org/pdf/2402.07315)
+
 #### 2023 
 - [ ] [Dündar-Coecke et al., 2023, Quantum Picturalism: Learning Quantum Theory in High School](https://arxiv.org/pdf/2312.03653)
 - [ ] [Freericks & Doughty, 2023, Should we trade off higher-level mathematics for abstraction to improve student understanding of quantum mechanics?](https://arxiv.org/pdf/2305.00062.pdf)

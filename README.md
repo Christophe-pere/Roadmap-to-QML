@@ -91,6 +91,7 @@ This repository will contain the major papers, books and blog posts on QML
 
 #### 2022
 - [ ] [Kaur & Venegas-Gomez, 2022, Defining the quantum workforce landscape: a review of global quantum education initiatives](https://arxiv.org/pdf/2202.08940.pdf)
+- [Mykhailova, 2022, Developing Programming Assignments for Teaching Quantum Computing and Quantum Programming](https://arxiv.org/abs/2211.16347)
 - [ ] [Peron et al., 2022, Quantum Undergraduate Education and Scientific Training](https://arxiv.org/abs/2109.13850)
 
 #### 2021 

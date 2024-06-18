@@ -2,6 +2,7 @@
 
 ### 2024 
 
+- [Carlesso, 2024, Lecture Notes on Quantum Algorithms in Open Quantum Systems](https://arxiv.org/pdf/2406.11613)
 - [Evans & Byrne & Cook, 2024, A Quick Introduction to Quantum Machine Learning for Non-Practitioners](https://arxiv.org/pdf/2402.14694Quantum Vision Transformers for Quark-Gluon Classification)
 - [Franco et al., 2024, Predominant Aspects on Security for Quantum Machine Learning: Literature Review](https://arxiv.org/pdf/2401.07774)
 - [Huang et al., 2024, Learning shallow quantum circuits](https://arxiv.org/pdf/2401.10095)
@@ -13,6 +14,7 @@
 - [Blekos et al., 2023, A Review on Quantum Approximate Optimization Algorithm and its Variants](https://arxiv.org/pdf/2306.09198)
 - [Dalzell et al., 2023, Quantum algorithms: A survey of applications and end-to-end complexities](https://arxiv.org/abs/2310.03011)
 - [Klau & Zöller & Tutschku, 2023, Bringing Quantum Algorithms to Automated Machine Learning: A Systematic Review of AutoML Frameworks Regarding Extensibility for QML Algorithms](https://arxiv.org/pdf/2310.04238) 
+- [Huynh et al., 2023, Quantum-Inspired Machine Learning: a Survey](https://arxiv.org/abs/2308.11269)
 - [Lamata, 2023, Quantum Machine Learning Implementations: Proposals and Experiments](https://arxiv.org/pdf/2303.06263.pdf)
 - [Melnikov et al., 2023, Quantum machine learning: from physics to software engineering](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2165452)
 - [Zaman et al., 2023, A Survey on Quantum Machine Learning: Current Trends, Challenges, Opportunities, and the Road Ahead](https://arxiv.org/pdf/2310.10315)

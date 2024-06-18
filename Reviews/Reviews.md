@@ -3,7 +3,7 @@
 ### 2024 
 
 - [Carlesso, 2024, Lecture Notes on Quantum Algorithms in Open Quantum Systems](https://arxiv.org/pdf/2406.11613)
-- [Evans & Byrne & Cook, 2024, A Quick Introduction to Quantum Machine Learning for Non-Practitioners](https://arxiv.org/pdf/2402.14694Quantum Vision Transformers for Quark-Gluon Classification)
+- [Evans & Byrne & Cook, 2024, A Quick Introduction to Quantum Machine Learning for Non-Practitioners](https://arxiv.org/pdf/2402.14694)
 - [Franco et al., 2024, Predominant Aspects on Security for Quantum Machine Learning: Literature Review](https://arxiv.org/pdf/2401.07774)
 - [Huang et al., 2024, Learning shallow quantum circuits](https://arxiv.org/pdf/2401.10095)
 

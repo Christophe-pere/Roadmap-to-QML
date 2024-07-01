@@ -163,6 +163,7 @@ This repository will contain the major papers, books and blog posts on QML
 - [ ] [sQUlearn, Kremlin et al., 2023, A Python Library for Quantum Machine Learning](https://arxiv.org/pdf/2311.08990)
 - [ ] [Qadence, Pasqal](https://github.com/pasqal-io/qadence)[Qadence paper](https://arxiv.org/pdf/2401.09915)
 - [ ] [Wu et al., 2024, The Cytnx Library for Tensor Networks](https://arxiv.org/pdf/2401.01921.pdf)
+- [ ] [JuliVQC: an Efficient Variational Quantum Circuit Simulator for Near-Term Quantum Algorithms, Liao et al., 2024](https://arxiv.org/pdf/2406.19212)
 
 ---
 

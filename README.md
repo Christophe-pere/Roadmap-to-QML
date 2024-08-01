@@ -77,6 +77,7 @@ This repository will contain the major papers, books and blog posts on QML
 #### 2024 
 
 - [De Maio et al., 2024, Training Computer Scientists for the Challenges of Hybrid Quantum-Classical Computing](https://arxiv.org/pdf/2403.00885.pdf)
+- [Greinert et al., 2024, Advancing quantum technology workforce: industry insights into qualification and training needs](https://arxiv.org/pdf/2407.21598)
 - [Mjeda & Murray, 2024, Quantum Computing Education for Computer Science Students: Bridging the Gap with Layered Learning and Intuitive Analogies](https://arxiv.org/pdf/2405.09265)
 - [Meyer et al., 2024, Qiskit-Torch-Module: Fast Prototyping of Quantum Neural Networks](https://arxiv.org/pdf/2404.06314)
 - [Rönkkö et al., 2024, On-Premises Superconducting Quantum Computer for Education and Research](https://arxiv.org/pdf/2402.07315)

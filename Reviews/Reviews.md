@@ -4,9 +4,10 @@
 
 - [Carlesso, 2024, Lecture Notes on Quantum Algorithms in Open Quantum Systems](https://arxiv.org/pdf/2406.11613)
 - [Evans & Byrne & Cook, 2024, A Quick Introduction to Quantum Machine Learning for Non-Practitioners](https://arxiv.org/pdf/2402.14694)
+- [Ferrie, 2024, What You Shouldn't Know About Quantum Computers](https://arxiv.org/abs/2405.15838)
 - [Franco et al., 2024, Predominant Aspects on Security for Quantum Machine Learning: Literature Review](https://arxiv.org/pdf/2401.07774)
 - [Huang et al., 2024, Learning shallow quantum circuits](https://arxiv.org/pdf/2401.10095)
-
+- [Mohseni et al., 2024, How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/pdf/2411.10406)
 
 ### 2023
 

@@ -29,7 +29,9 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Papers
 
+#### 2025
 
+- [List of all papers from 2025](https://github.com/Christophe-pere/Roadmap-to-QML/blob/main/2025/2025.md)
 
 #### 2024 
 
@@ -74,8 +76,13 @@ This repository will contain the major papers, books and blog posts on QML
 
 ### Quantum Workforce 
 
+#### 2025
+
+- [Haghparast et al., 2025, Innovative Approaches to Teaching Quantum Computer Programming and Quantum Software Engineering](https://arxiv.org/pdf/2501.01446)
+
 #### 2024 
 
+- [Blanchette et al., 2024, The Design and Implementation of a Quantum Information Science Undergraduate Program](https://arxiv.org/abs/2412.01874)
 - [De Maio et al., 2024, Training Computer Scientists for the Challenges of Hybrid Quantum-Classical Computing](https://arxiv.org/pdf/2403.00885.pdf)
 - [Greinert et al., 2024, Advancing quantum technology workforce: industry insights into qualification and training needs](https://arxiv.org/pdf/2407.21598)
 - [Mjeda & Murray, 2024, Quantum Computing Education for Computer Science Students: Bridging the Gap with Layered Learning and Intuitive Analogies](https://arxiv.org/pdf/2405.09265)

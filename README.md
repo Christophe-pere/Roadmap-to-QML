@@ -16,6 +16,7 @@ This repository will contain the major papers, books and blog posts on QML
 ### Books
 
 - [ ] [Du et al., 2025, Quantum Machine Learning A Hands-on Tutorial for Machine Learning Practitioners and Researchers](https://arxiv.org/pdf/2502.01146)
+- [ ] [Mancilla, 2025, QML Unlocked: From Curiosity to Capability in Quantum Machine](https://www.amazon.com/QML-Unlocked-Curiosity-Capability-Learning-ebook/dp/B0DZ18ZH48)
 - [ ] [Combarro & González-Castillo, 2023, A Practical Guide to Quantum Machine Learning and Quantum Optimization, Packt Publishing](https://www.packtpub.com/product/a-practical-guide-to-quantum-machine-learning-and-quantum-optimization/9781804613832)
 - [ ] [Hidary, 2022, Quantum Computing: An Applied Approach, 2nd edition](https://github.com/JackHidary/quantumcomputingbook)
 - [ ] [Schuld & Petruccione, 2022, Machine Learning with Quantum Computers](https://link.springer.com/book/10.1007/978-3-030-83098-4)
@@ -81,6 +82,7 @@ This repository will contain the major papers, books and blog posts on QML
 #### 2025
 
 - [Haghparast et al., 2025, Innovative Approaches to Teaching Quantum Computer Programming and Quantum Software Engineering](https://arxiv.org/pdf/2501.01446)
+- [Upadhyay et al., 2025, Quantum Computing and Cybersecurity Education: A Novel Curriculum for Enhancing Graduate STEM Learning](https://arxiv.org/pdf/2503.09375)
 
 #### 2024 
 

@@ -4,6 +4,7 @@
 #### 2025
 
 - [Dündar-Coecke et al., 2025, Making the quantum world accessible to young learners through Quantum Picturalism: An experimental study](https://arxiv.org/pdf/2504.01013)
+- [El-Adawy et al., 2025, Industry Perspectives on Projected Quantum Workforce Needs](https://arxiv.org/abs/2508.15055)
 - [Gragera Garcés & Orzechowski & Hernández, 2025, Introducing Quantum Computing to High-School Curricula: A Global Perspective](https://arxiv.org/pdf/2505.14809)
 - [Haghparast et al., 2025, Innovative Approaches to Teaching Quantum Computer Programming and Quantum Software Engineering](https://arxiv.org/pdf/2501.01446)
 - [Mahmud & Goldsmith, 2025, A minimal Introduction to Quantum Computing](https://arxiv.org/pdf/2504.00995)

@@ -1,5 +1,9 @@
 # What are the reviews on QML? 
 
+### 2025
+
+- [Rohe et al., 2025, Quantum Computer Benchmarking: An Explorative Systematic Literature Review](https://arxiv.org/pdf/2509.03078)
+
 ### 2024 
 
 - [Carlesso, 2024, Lecture Notes on Quantum Algorithms in Open Quantum Systems](https://arxiv.org/pdf/2406.11613)

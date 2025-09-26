@@ -2,6 +2,7 @@
 
 ### 2025
 
+- [Fischbach & Talbot & Bourvry, A Review on Quantum Circuit Optimization using ZX-Calculus](https://arxiv.org/pdf/2509.20663)
 - [Rohe et al., 2025, Quantum Computer Benchmarking: An Explorative Systematic Literature Review](https://arxiv.org/pdf/2509.03078)
 
 ### 2024 

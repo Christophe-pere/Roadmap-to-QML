@@ -2,7 +2,9 @@
 
 ### 2025
 
-- [Fischbach & Talbot & Bourvry, A Review on Quantum Circuit Optimization using ZX-Calculus](https://arxiv.org/pdf/2509.20663)
+- [Amaral et al., 2025, Quantum machine learning and quantum-inspired methods applied to computational fluid dynamics: a short review](https://arxiv.org/pdf/2510.14099)
+- [Fischbach & Talbot & Bourvry, 2025, A Review on Quantum Circuit Optimization using ZX-Calculus](https://arxiv.org/pdf/2509.20663)
+- [Kaldari et al., 2025, Quantum Reinforcement Learning: Recent Advances and Future Directions](https://arxiv.org/pdf/2510.14595)
 - [Rohe et al., 2025, Quantum Computer Benchmarking: An Explorative Systematic Literature Review](https://arxiv.org/pdf/2509.03078)
 
 ### 2024 

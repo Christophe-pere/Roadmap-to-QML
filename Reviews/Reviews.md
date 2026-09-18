@@ -24,7 +24,7 @@
 - [Klau & Zöller & Tutschku, 2023, Bringing Quantum Algorithms to Automated Machine Learning: A Systematic Review of AutoML Frameworks Regarding Extensibility for QML Algorithms](https://arxiv.org/pdf/2310.04238) 
 - [Huynh et al., 2023, Quantum-Inspired Machine Learning: a Survey](https://arxiv.org/abs/2308.11269)
 - [Lamata, 2023, Quantum Machine Learning Implementations: Proposals and Experiments](https://arxiv.org/pdf/2303.06263.pdf)
-- [Melnikov et al., 2023, Quantum machine learning: from physics to software engineering](https://www.tandfonline.com/doi/full/10.1080/23746149.2023.2165452)
+- [Melnikov et al., 2023, Quantum machine learning: from physics to software engineering](https://arxiv.org/pdf/2301.01851)
 - [Zaman et al., 2023, A Survey on Quantum Machine Learning: Current Trends, Challenges, Opportunities, and the Road Ahead](https://arxiv.org/pdf/2310.10315)
 - [Zeguendry & Jarir & Quafafou, 2023, Quantum Machine Learning: A Review and Case Studies](https://www.mdpi.com/1099-4300/25/2/287)
 
@@ -33,13 +33,13 @@
 - [Cerezo et al., 2022, Challenges and opportunities in quantum machine learning](https://arxiv.org/pdf/2303.09491v1.pdf)
 - [Garcia & Cruz-Benito & arcia-Penalvo, 2022, Systematic Literature Review: Quantum Machine Learning and its applications](https://arxiv.org/abs/2201.04093)
 - [Lourens et al., 2022, Hierarchical architecture representations for quantum convolutional neural networks](https://arxiv.org/pdf/2210.15073.pdf)
-- [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d2cs00203e)
+- [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://arxiv.org/pdf/2111.00851)
 - [Tang & Yan & Edwin, 2022, From Quantum Graph Computing to Quantum Graph Learning: A Survey](https://arxiv.org/abs/2202.09506)
-- [Valdez & Melin, 2022, A review on quantum computing and deep learning algorithms and their applications](https://link.springer.com/article/10.1007/s00500-022-07037-4)
+- [Valdez & Melin, 2022, A review on quantum computing and deep learning algorithms and their applications](https://link.springer.com/article/10.1007/s00500-022-07037-4) **[RETRACTED 10 March 2026]**
 
 ### 2021
 
-- [Huang et al., 2021, Power of data in quantum machine learning](https://www.nature.com/articles/s41467-021-22539-9)
+- [Huang et al., 2021, Power of data in quantum machine learning](https://arxiv.org/pdf/2011.01938)
 - [Mishra et al., 2021, Quantum Machine Learning: A Review and Current Status](https://www.researchgate.net/publication/345190379_Quantum_Machine_Learning_A_Review_and_Current_Status)
 
 ### 2020 
@@ -51,7 +51,7 @@
 
 ### 2018 
 
-- [Ciliberto et al., 2018, Quantum machine learning: a classical perspective](https://royalsocietypublishing.org/doi/10.1098/rspa.2017.0551)
+- [Ciliberto et al., 2018, Quantum machine learning: a classical perspective](https://arxiv.org/pdf/1707.08561)
 
 ### 2017
 

@@ -35,7 +35,7 @@
 - [Lourens et al., 2022, Hierarchical architecture representations for quantum convolutional neural networks](https://arxiv.org/pdf/2210.15073.pdf)
 - [Sajjan et al., 2022, Quantum machine learning for chemistry and physics](https://arxiv.org/pdf/2111.00851)
 - [Tang & Yan & Edwin, 2022, From Quantum Graph Computing to Quantum Graph Learning: A Survey](https://arxiv.org/abs/2202.09506)
-- [Valdez & Melin, 2022, A review on quantum computing and deep learning algorithms and their applications](https://link.springer.com/article/10.1007/s00500-022-07037-4)
+- [Valdez & Melin, 2022, A review on quantum computing and deep learning algorithms and their applications](https://link.springer.com/article/10.1007/s00500-022-07037-4) **[RETRACTED 10 March 2026]**
 
 ### 2021
 
